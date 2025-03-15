@@ -1,0 +1,2 @@
+- they are searching for [[Oyaminatok]]
+- In the party there is a Goliath that wants to have a duel with [[Oyaminatok]]

@@ -1,0 +1,99 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "DPR_xX231DMUsP-fw6QYL",
+      "name": "Rat Color",
+      "value": "#93e3fd"
+    },
+    {
+      "id": "nLvRD04cA4qwpVNBbPkce",
+      "name": "Color 1",
+      "value": "#52d6fc"
+    },
+    {
+      "id": "E1K25RjtDrh_nsMyVC7S2",
+      "name": "Kolor 1",
+      "value": "#ffc5ab"
+    },
+    {
+      "id": "4HqEmOuimB8QEX_gSnv7v",
+      "name": "KOlotpije",
+      "value": "#96d35f"
+    },
+    {
+      "id": "w6Bosk7j7sQO28Z-te_4z",
+      "name": "",
+      "value": "#99244f"
+    },
+    {
+      "id": "3yQqU7hiYZmWcCsXXoi-3",
+      "name": "",
+      "value": "#fdc700"
+    },
+    {
+      "id": "iGS9rPO0M7io6zbU6qaPM",
+      "name": "",
+      "value": "#b18cfe"
+    },
+    {
+      "id": "9tP8klOgyKn3RTIKLUH0v",
+      "name": "",
+      "value": "#3a87fe"
+    },
+    {
+      "id": "9ihEJKpB948qSqhOgK_Ts",
+      "name": "",
+      "value": "#d38301"
+    },
+    {
+      "id": "SVGP2VQY8ohdLHG_CkWmS",
+      "name": "",
+      "value": "#ff8c82"
+    },
+    {
+      "id": "qR4CPTIyhfrh7dBqT_nGb",
+      "name": "",
+      "value": "#ee719e"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "2. Rattus Life Quest List",
+      "color": "nLvRD04cA4qwpVNBbPkce"
+    },
+    {
+      "path": "3. Dungeons, Dragons and Derealization",
+      "color": "E1K25RjtDrh_nsMyVC7S2"
+    },
+    {
+      "path": "4. Rattus Writing Workshop",
+      "color": "w6Bosk7j7sQO28Z-te_4z"
+    },
+    {
+      "path": "5. Little Uni Corner",
+      "color": "4HqEmOuimB8QEX_gSnv7v"
+    },
+    {
+      "path": "6. Rats Book of Recipies",
+      "color": "iGS9rPO0M7io6zbU6qaPM"
+    },
+    {
+      "path": "7. Vault Managment",
+      "color": "9tP8klOgyKn3RTIKLUH0v"
+    },
+    {
+      "path": "8. Journal",
+      "color": "9ihEJKpB948qSqhOgK_Ts"
+    },
+    {
+      "path": "9. Random notes",
+      "color": "SVGP2VQY8ohdLHG_CkWmS"
+    },
+    {
+      "path": "10. Archive",
+      "color": "qR4CPTIyhfrh7dBqT_nGb"
+    }
+  ]
+}

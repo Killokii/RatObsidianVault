@@ -1,0 +1,1 @@
+- it is rumored that [[Ouriel the Frost maiden]] resides here

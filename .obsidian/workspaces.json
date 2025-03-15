@@ -1,0 +1,1028 @@
+{
+  "workspaces": {
+    "Journal View": {
+      "main": {
+        "id": "d00c9f6d4af54659",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d9cf3397919098e",
+            "type": "split",
+            "children": [
+              {
+                "id": "ed6790684090568b",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "0b8a0884629cc5cf",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "b9a783d08de45b29",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "1. Homepage/Rattus’s Compendium of Every little thing.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "pinned": true,
+                          "icon": "lucide-file",
+                          "title": "Rattus’s Compendium of Every little thing"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "cfc6dbd814b39e00",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "11049ba8d6b4b625",
+                        "type": "leaf",
+                        "state": {
+                          "type": "empty",
+                          "state": {},
+                          "icon": "lucide-file",
+                          "title": "New tab"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              },
+              {
+                "id": "f7a5473d040edb13",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "772b689eae9a5588",
+                    "type": "leaf",
+                    "state": {
+                      "type": "weekly",
+                      "state": {},
+                      "icon": "calendar-with-checkmark",
+                      "title": "Week Planner"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a116a30825a369aa",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "46a6d0c5b139310e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2770981f25d79bdb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c5ae564fa81abd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac7b19d863868feb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 0
+      },
+      "right": {
+        "id": "307853820976395d",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "ca5d3a853e9a0178",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "030ce98f818c19e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d6ffc79718e4e060",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f4e50b41c6a3d840",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "6f53bd4439ec3cbc",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-git:Open Git source control": false,
+          "obsidian-kanban:Create new board": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-day-planner:Timeline": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "b9a783d08de45b29",
+      "mtime": "2024-11-24T15:42:55+11:00"
+    },
+    "DnD View": {
+      "main": {
+        "id": "d00c9f6d4af54659",
+        "type": "split",
+        "children": [
+          {
+            "id": "87a81b3cd09a08e9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "58ba4db9ca3af151",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/Eligor Lua.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "358103e16c4a373c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/The Frost Maiden Journal/The Frost Maiden Journal.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "591de137a719dcb4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "99106e3671dc7055",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/The Icewindale Compendium.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "57e1a62fb75b57fc",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/Quest Log.md"
+                  }
+                }
+              },
+              {
+                "id": "d3bcedca862a6092",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a116a30825a369aa",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "46a6d0c5b139310e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2770981f25d79bdb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c5ae564fa81abd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac7b19d863868feb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 0
+      },
+      "right": {
+        "id": "307853820976395d",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "ca5d3a853e9a0178",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/The Icewindale Compendium.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "030ce98f818c19e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/The Icewindale Compendium.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6ffc79718e4e060",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/The Icewindale Compendium.md"
+              }
+            }
+          },
+          {
+            "id": "f4e50b41c6a3d840",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f53bd4439ec3cbc",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-day-planner:Timeline": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "99106e3671dc7055",
+      "mtime": "2024-05-06T18:36:08+10:00"
+    },
+    "Rattus gen View": {
+      "main": {
+        "id": "d00c9f6d4af54659",
+        "type": "split",
+        "children": [
+          {
+            "id": "35ef6796a836e00a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6ef90dcf2ec1c980",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Homepage/Rattus’s Compendium of Every little thing.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "591de137a719dcb4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d3bcedca862a6092",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a116a30825a369aa",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "46a6d0c5b139310e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2770981f25d79bdb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c5ae564fa81abd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac7b19d863868feb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 0,
+        "pinned": true
+      },
+      "right": {
+        "id": "307853820976395d",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "ca5d3a853e9a0178",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Homepage/Rattus’s Compendium of Every little thing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "030ce98f818c19e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Homepage/Rattus’s Compendium of Every little thing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6ffc79718e4e060",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Homepage/Rattus’s Compendium of Every little thing.md"
+              }
+            }
+          },
+          {
+            "id": "f4e50b41c6a3d840",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f53bd4439ec3cbc",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-day-planner:Timeline": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "6ef90dcf2ec1c980",
+      "mtime": "2024-05-05T17:31:14+10:00"
+    },
+    "Kin Of Yarilo": {
+      "main": {
+        "id": "d00c9f6d4af54659",
+        "type": "split",
+        "children": [
+          {
+            "id": "ed6790684090568b",
+            "type": "split",
+            "children": [
+              {
+                "id": "0b8a0884629cc5cf",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "52b0bf8995041a9b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Jarilo Book of Lore.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Jarilo Book of Lore"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "cfc6dbd814b39e00",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "11049ba8d6b4b625",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Kin Of Yarilo (GDD).md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Kin Of Yarilo (GDD)"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a116a30825a369aa",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "46a6d0c5b139310e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2770981f25d79bdb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c5ae564fa81abd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac7b19d863868feb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 0
+      },
+      "right": {
+        "id": "307853820976395d",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "ca5d3a853e9a0178",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kin Of Yarilo (GDD).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "030ce98f818c19e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kin Of Yarilo (GDD).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d6ffc79718e4e060",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kin Of Yarilo (GDD).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f4e50b41c6a3d840",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "6f53bd4439ec3cbc",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-git:Open Git source control": false,
+          "obsidian-kanban:Create new board": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-day-planner:Timeline": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "11049ba8d6b4b625",
+      "mtime": "2024-11-24T01:01:07+11:00"
+    },
+    "e": {
+      "main": {
+        "id": "d00c9f6d4af54659",
+        "type": "split",
+        "children": [
+          {
+            "id": "0b8a0884629cc5cf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6374926c2da5356c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Homepage/Rattus Compendium of Every little thing.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Rattus Compendium of Every little thing"
+                }
+              },
+              {
+                "id": "afab3ead5da2d6b0",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ddc052fdd134fa40",
+        "type": "split",
+        "children": [
+          {
+            "id": "ad60b8bde9d36294",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bb07ecb52f7d41c9",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "1bb629f76f3f43fb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "2279e8156cfd11d7",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 373.5
+      },
+      "right": {
+        "id": "d0a586496ee34ff3",
+        "type": "split",
+        "children": [
+          {
+            "id": "7966721b67737635",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8ba71ad3c218868f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "d841c332c75f35c0",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "127309671140a551",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "311589fbfe04c243",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline"
+                }
+              },
+              {
+                "id": "0734a1a6d37b0243",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Timeline"
+                }
+              },
+              {
+                "id": "ee3f0f4229812d1e",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {},
+                  "icon": "dices",
+                  "title": "Dice Tray"
+                }
+              },
+              {
+                "id": "bc07dbaf29531b01",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:Manage workspace layouts": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "obsidian-day-planner:Timeline": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-git:Open Git source control": false,
+          "obsidian-kanban:Create new board": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "afab3ead5da2d6b0",
+      "mtime": "2025-02-09T12:00:00+11:00"
+    }
+  },
+  "active": "Journal View"
+}

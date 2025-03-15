@@ -1,0 +1,3 @@
+- this is the gith that [[Kree-Zu-Riath-KI]] is looking for.
+- We learn from duergar that he is being held at the [[Dragon Heart Forge]]
+- 

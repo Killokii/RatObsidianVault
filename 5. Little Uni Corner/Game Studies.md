@@ -1,0 +1,5 @@
+#uniThings
+
+Assignments
+	[[Magazine Zine]]
+	

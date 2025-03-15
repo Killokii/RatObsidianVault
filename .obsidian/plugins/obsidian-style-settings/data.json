@@ -1,0 +1,12 @@
+{
+  "minimal-advanced@@cursor": "crosshair",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-teal",
+  "anuppuccin-theme-settings@@anp-active-line": "anp-current-line",
+  "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-sleek",
+  "anuppuccin-theme-settings@@anp-canvas-dark-bg": true,
+  "anuppuccin-theme-settings@@anp-layout-select": "none",
+  "anuppuccin-theme-settings@@ctp-custom-red@@dark": "#D9250C",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-red"
+}

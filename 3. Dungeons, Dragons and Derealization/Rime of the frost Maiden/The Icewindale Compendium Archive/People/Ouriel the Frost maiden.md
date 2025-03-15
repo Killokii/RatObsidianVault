@@ -1,0 +1,7 @@
+- Apparently each town gives her sacrifices to appease here
+	- she is said to be responsible for the lack of sun in icewindale, not even in the summer
+	- she is also responsible for the current eternal winter
+	- the aurora is her creation
+	- due to her curse on this land, the people are isolated and dying.
+- It is rumored that she resides on the [[Moving Sea of ice]]
+- She cannot be killed as long as she has believers, perhaps we need to seal her.
