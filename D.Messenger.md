@@ -2,17 +2,52 @@ Make istota a character in itself
 
 **
 
+=== 
 Messenger Introduction
-
+--- 
 === 
 
 Istota: As you walk up to the figures, none of them respond to you in the slightest.
 
-Istota: While they do not respond to you, you are taken quite aback by their presence. One of them is standing in a puddle of blood before a corpse, looking at the half-torso with its empty sockets. It does not even give you a glance, holding out a letter canister toward the floor. If you didn’t know what it was, you might have wondered if it was even alive.
+Istota: While they do not respond to you, you are taken quite aback by their presence.
 
-Istota: It was none other than the communicational backbone of this continent: a Messenger.
+	//One of them is standing in a puddle of blood before a corpse, looking at the half-torso with its empty sockets. It does not even give you a glance, holding out a letter canister toward the floor. If you didn’t know what it was, you might have wondered if it was even alive.
+	
 
-Istota: Then you notice the other two nearby—one crouched beside the remains of a broken carriage, carefully collecting scattered scraps of parchment, and the third perched unnervingly still on a jagged rock, head tilted at an impossible angle. All three of them held identical canisters.
+Patyczek: An undead with a letter in its palm... It must be a messenger... what is it doing here?
+
+Istota: No clear answers came to mind, but did it even matter?
+
+Patyczek: it did not.
+
+Istota: then you should stop focusing on the messengers and continue your looting.
+
+	// Then you notice the other two nearby—one crouched beside the remains of a broken carriage, carefully collecting scattered scraps of parchment, and the third perched unnervingly still on a jagged rock, head tilted at an impossible angle. All three of them held identical canisters.
+
+
+
+
+=== 
+Messenger ignore
+---
+
+Istota: They Ignore you. Its not like you are interested in talking with them either.
+
+=== 
+
+=== 
+Corpse
+---
+
+Istota: As you squat down to the corpse below the messengers feet, an odd feeling overtakes you as you look at its clothing. it looked familliar, earily familar. and not only that... 
+
+patyczek: the uniform was made out of fish skin. it was thick, filled with the past imprints of scales and
+
+istota: There is only one place you know of that uses such a material. 
+
+=== 
+
+
 
 (Look around site first)
 
