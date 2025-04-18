@@ -35,18 +35,6 @@ Istota: They Ignore you. Its not like you are interested in talking with them ei
 
 === 
 
-=== 
-Corpse
----
-
-Istota: As you squat down to the corpse below the messengers feet, an odd feeling overtakes you as you look at its clothing. it looked familliar, earily familar. and not only that... 
-
-patyczek: the uniform was made out of fish skin. it was thick, filled with the past imprints of scales and
-
-istota: There is only one place you know of that uses such a material. 
-
-=== 
-
 
 
 (Look around site first)
