@@ -1,9 +1,0 @@
-- [x] mix bear trap sound 
-- [x] Make musician at start slower
-- [x] Weird collider > I colliders foller
-- [x] Move fog
-- [x] Mine 
-- [ ] Get rid of wooden blocks
-- [ ] Rotate player in mine scene
-- [ ] 
-- [ ] 

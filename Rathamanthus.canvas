@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"d7af906954729849","type":"text","text":"# Rechargables\n--- \n### Channel Divinity\n*Reset on Short Rest*\n- [ ] \n\n###  Spellslots\n*Reset on Long Rest*\n\n--- \nLevel 1\n- [ ] \n- [ ] \n- [ ] \n- [ ] \n---\nLevel 2\n- [ ] \n- [ ] \n- [ ] \n","x":-120,"y":400,"width":260,"height":680},
-		{"id":"fa43c09b668ddb2d","type":"text","text":"## Ratamanthus\n\n","x":-560,"y":420,"width":420,"height":560}
-	],
-	"edges":[]
-}

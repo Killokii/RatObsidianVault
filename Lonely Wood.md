@@ -1,1 +1,0 @@
-- [[the old lady]] is the town speaker of this town.

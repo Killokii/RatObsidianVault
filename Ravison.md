@@ -1,1 +1,0 @@
-her sister died and she is taking it out on the towns

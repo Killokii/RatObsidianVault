@@ -58,42 +58,5 @@
       "value": "#ee719e"
     }
   ],
-  "fileColors": [
-    {
-      "path": "2. Rattus Life Quest List",
-      "color": "nLvRD04cA4qwpVNBbPkce"
-    },
-    {
-      "path": "3. Dungeons, Dragons and Derealization",
-      "color": "E1K25RjtDrh_nsMyVC7S2"
-    },
-    {
-      "path": "4. Rattus Writing Workshop",
-      "color": "w6Bosk7j7sQO28Z-te_4z"
-    },
-    {
-      "path": "5. Little Uni Corner",
-      "color": "4HqEmOuimB8QEX_gSnv7v"
-    },
-    {
-      "path": "6. Rats Book of Recipies",
-      "color": "iGS9rPO0M7io6zbU6qaPM"
-    },
-    {
-      "path": "7. Vault Managment",
-      "color": "9tP8klOgyKn3RTIKLUH0v"
-    },
-    {
-      "path": "8. Journal",
-      "color": "9ihEJKpB948qSqhOgK_Ts"
-    },
-    {
-      "path": "9. Random notes",
-      "color": "SVGP2VQY8ohdLHG_CkWmS"
-    },
-    {
-      "path": "10. Archive",
-      "color": "qR4CPTIyhfrh7dBqT_nGb"
-    }
-  ]
+  "fileColors": []
 }

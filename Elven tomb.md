@@ -1,3 +1,0 @@
-- this tomb is located deep in the woods of [[Lonely Wood]]
-- It was where we found the [[White Moose]]
-- this was where we found [[Sir Forgotten]]

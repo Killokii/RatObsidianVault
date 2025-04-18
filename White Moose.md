@@ -1,3 +1,0 @@
-- we where tasked by [[the old lady]] to kill this moose for 50gp
-- We found it sleeping in the [[Elven tomb]]
-- We killed it and gave its head to the [[the old lady]]

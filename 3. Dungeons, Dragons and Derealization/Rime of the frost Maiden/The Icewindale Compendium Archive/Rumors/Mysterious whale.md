@@ -1,1 +1,0 @@
-- it is rumored that there is a mysterious whale somewhere out in the ice with a house on it.

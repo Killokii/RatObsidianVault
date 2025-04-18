@@ -1,3 +1,0 @@
-- make it so the dialogue string is held in the object 
-- make it so the palyer cant move while in dialouge
-- 

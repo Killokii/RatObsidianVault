@@ -1,1 +1,0 @@
-[[Warlock Spell list]]

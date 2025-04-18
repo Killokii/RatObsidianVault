@@ -1,2 +1,0 @@
-- Duvessa is the town speaker of [[Bryn Shander]]
-- 

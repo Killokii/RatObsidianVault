@@ -1,3 +1,0 @@
-- [[Gareth]]’s husband
-- He tasked us to find [[Gareth]] in the snowy mountains.
-- We find out that he carves horns for a living and order some as the [[Order of the Meek]]
