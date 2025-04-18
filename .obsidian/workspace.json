@@ -41,14 +41,14 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "10ea07b41f556afd",
+    "id": "2ce2f27979c5c451",
     "type": "split",
     "children": [],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "727cc7f336d77ff9",
+    "id": "eb2cd54f5505b1aa",
     "type": "split",
     "children": [],
     "direction": "horizontal",
@@ -71,8 +71,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6ef90dcf2ec1c980",
+  "active": "d3bcedca862a6092",
   "lastOpenFiles": [
+    "gitignore",
     "8. Journal/Mo-Mar-24-2025.md",
     "2. Rattus Life Quest List/Birthday Catalogue.md",
     "5. Little Uni Corner/Asset List.md",
@@ -98,7 +99,6 @@
     "Powers of rodynia.md",
     "Part I Adults.md",
     "8. Journal/Fr-Feb-21-2025.md",
-    "8. Journal/Th-Feb-20-2025.md",
     "Untitled.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
