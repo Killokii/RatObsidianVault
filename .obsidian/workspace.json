@@ -4,269 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "6d9cf3397919098e",
-        "type": "split",
+        "id": "35ef6796a836e00a",
+        "type": "tabs",
         "children": [
           {
-            "id": "40e978c247325caf",
-            "type": "split",
-            "dimension": 46.964285714285715,
-            "children": [
-              {
-                "id": "0b8a0884629cc5cf",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "b9a783d08de45b29",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Untitled 12.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "pinned": true,
-                      "icon": "lucide-file",
-                      "title": "Untitled 12"
-                    }
-                  },
-                  {
-                    "id": "f652ce2301d0bb6e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "1. Homepage/Rattus Compendium of Every little thing.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Rattus Compendium of Every little thing"
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "8cb833058a02648f",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "0d4cfd6c876fc145",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "8. Journal/Mo-Mar-24-2025.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Mo-Mar-24-2025"
-                    }
-                  },
-                  {
-                    "id": "38eb3176dda08a66",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "8. Journal/Fr-Apr-18-2025.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Fr-Apr-18-2025"
-                    }
-                  }
-                ],
-                "currentTab": 1
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "f7a5473d040edb13",
-            "type": "tabs",
-            "dimension": 53.035714285714285,
-            "children": [
-              {
-                "id": "772b689eae9a5588",
-                "type": "leaf",
-                "state": {
-                  "type": "weekly",
-                  "state": {},
-                  "icon": "calendar-with-checkmark",
-                  "title": "Week Planner"
-                }
-              }
-            ]
+            "id": "6ef90dcf2ec1c980",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
+      },
+      {
+        "id": "591de137a719dcb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3bcedca862a6092",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "665b6642ab9d886a",
+    "id": "10ea07b41f556afd",
     "type": "split",
-    "children": [
-      {
-        "id": "f5a3815c5158c971",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0d4e4fc74b5edfd6",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "990d171e87b18863",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "b6f0bcfd245ee4d8",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "e8df94cbabc27301",
+    "id": "727cc7f336d77ff9",
     "type": "split",
-    "children": [
-      {
-        "id": "6881f5a41db36989",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "21cbb277e5cff4f1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "The Box (GDD).md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for The Box (GDD)"
-            }
-          },
-          {
-            "id": "8c65d7931010509e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "The Box (GDD).md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from The Box (GDD)"
-            }
-          },
-          {
-            "id": "e162f3beae25bdd1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "f18db5625cda1e8b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "The Box (GDD).md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of The Box (GDD)"
-            }
-          },
-          {
-            "id": "734120c3039cef98",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "d51e05e7d4394d4c",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "3cb4e9bbd47ca39f",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -287,14 +71,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "38eb3176dda08a66",
+  "active": "6ef90dcf2ec1c980",
   "lastOpenFiles": [
+    "8. Journal/Mo-Mar-24-2025.md",
+    "2. Rattus Life Quest List/Birthday Catalogue.md",
+    "5. Little Uni Corner/Asset List.md",
+    "5. Little Uni Corner/Concept art.md",
+    "5. Little Uni Corner/Little Uni Corner.md",
+    "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/The Icewindale Compendium.md",
+    "Untitled 12.md",
     "8. Journal/Fr-Apr-18-2025.md",
     "8. Journal/Tu-Mar-4-2025.md",
-    "8. Journal/Mo-Mar-24-2025.md",
     "8. Journal/Mo-Mar-3-2025.md",
     "8. Journal/Su-Mar-2-2025.md",
-    "Untitled 12.md",
     "8. Journal/Tu-Feb-25-2025.md",
     "8. Journal/Mo-Feb-24-2025.md",
     "1. Homepage/Rattus Compendium of Every little thing.md",
@@ -310,11 +99,6 @@
     "Part I Adults.md",
     "8. Journal/Fr-Feb-21-2025.md",
     "8. Journal/Th-Feb-20-2025.md",
-    "8. Journal/Sa-Feb-22-2025.md",
-    "Untitled Kanban 4.md",
-    "8. Journal/Sa-Feb-15-2025.md",
-    "8. Journal/Th-Feb-13-2025.md",
-    "Welcome.md",
     "Untitled.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
