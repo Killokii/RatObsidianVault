@@ -18,8 +18,23 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "b5f5a1afcb29e80b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ee.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ee"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +214,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6374926c2da5356c",
+  "active": "b5f5a1afcb29e80b",
   "lastOpenFiles": [
+    "ee.md",
     "LE RATTA DE NOTE.md",
     "Git whY.md",
     "Untitled 4.md",
@@ -210,7 +226,6 @@
     "Untitled 3.canvas",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Untitled.md",
     "the spire.md",
     "1. Homepage/Rattus Compendium of Every little thing.md",
     "Untitled Kanban 6.md",
