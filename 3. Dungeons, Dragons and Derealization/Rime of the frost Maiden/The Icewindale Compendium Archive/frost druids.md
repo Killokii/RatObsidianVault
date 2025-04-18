@@ -1,0 +1,1 @@
+- frost Druids are followers of [[Ouriel the Frost maiden]] and aim to destroy the towns in order to return the towns to nature.

@@ -1,0 +1,3 @@
+- black iron blade is a smithy run by drawees. 
+- Their main headquarters are at [[Kelvins Cairn]] but they also have a smithy in [[Bryn Shander]].
+- the [[Bryn Shander]] outpost is ran by [[Madame of the black blade]]

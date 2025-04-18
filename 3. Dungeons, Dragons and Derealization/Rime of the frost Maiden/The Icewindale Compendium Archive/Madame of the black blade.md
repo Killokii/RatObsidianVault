@@ -1,0 +1,1 @@
+- proprietor of the [[Black iron blade]] smithy in [[Bryn Shander]]

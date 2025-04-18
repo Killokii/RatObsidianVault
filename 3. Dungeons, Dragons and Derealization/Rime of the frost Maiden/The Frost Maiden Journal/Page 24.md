@@ -1,0 +1,40 @@
+Tuesday 7th of may
+
+- We go try to retrieve our stuff.
+- we ask gang why is the brotherhood looking for yetherin 
+	- The margin there is amazing and it’s beyond our knowlage
+	- The brotherhood recently found a lead on how to obtain this magic
+	- They knew this lead for a long time
+	- yehtine/nether
+		- Nether is a civilization ruled by ancient wizzards
+		- Netherise wizzards first learned their magic from the elves then from the fabled nether scrolls.
+		- It’s considered ancient magic, its more powerful than normal/modern magic.
+		- it was so powerful it made gods tremble
+		- I ask about the [[Elven tomb]]
+			- They are scattered all over Faron. Lost their meaning.
+		- Evil subterranean known as [[Pharimm]] were the reason behind the fall of thereese magiic
+		- [[Karus]] was also behind the fall of netherese magic. He tried to control it but instead exploded the weave. Years after it happened, people could not use magic
+	- Other members of the [[Arcance Brotherhood]]
+		- [[Avarice]] the albino tiefling. Netherse magic is her specialty.
+		- [[Dzan]] was the red wizard of thay.
+			- he is thayan 
+			- He wanted the weave to himself
+		- a woman [[Nass Lantomir]], she according to gant, she is a nobody.
+			- She got into the brotherhood on a fluke
+		- [[Vellleny Harpel]] 
+			- She apparently is in the brotherhood because oh her family connections. She provides the brotherhood with artifacts 
+			- She is a fanatic with reincarnating the death. She does it for fun
+		- Base is in [[Neverwinter]]
+- Activation phrase: its cream of ice time.
+- the [[warden]] has tasked us with killing the [[Goliath]], do not get his head.
+- We leave [[Reavels End]]
+	- [[Duvvessa’s Request]]
+- we decide to head to [[the spire]].
+- people in icewindale are drawn together.
+- We spot a clocked figure in the blizzards
+	- “I’ve finaly found you” she says as she lifts her hood.
+	- It’s [[Ravison]], the frost druid that we locked in the [[Elven tomb]].
+	- She lets out her tounge made out of [[Chardalyn]]
+	- she summons a giants snake, and on his tail there is [[Sir Forgotten]].
+	- She says that the [[frost druids]] down worship [[Ouriel the Frost maiden]], and because of this being a common belief the [[frost druids]] have been prosecuted.
+	- 

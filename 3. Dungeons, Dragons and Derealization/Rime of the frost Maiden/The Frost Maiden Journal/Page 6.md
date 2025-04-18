@@ -1,0 +1,21 @@
+- the party enters the [[Elven tomb]] and confronts the [[White Moose]]
+	- after a tough fight with sophap going down, we manage to kill the beast and recover its head, albeit with a hole through it.
+	- We also skinned and gutted it.
+- Afterwords we continued our exploration of the [[Elven tomb]]
+	- We found a mirror enchanted with a spell from the divination school.
+	- We also found a door with moon engravings on it that we cannot open.
+	- there is also a door with he symbol of the full moon engraved into it.
+	- “Gaze upon the full moon and have 7 questions answered”
+- Feeling something calling him from the words [[Disious]] decided to go on off on his own to try to identify it. Unbeknownst to him, [[SOPHAP]] saw he was going somewhere and decided to follow him too.
+	- The source of this pull was an 8-foot man, [[The Aracokra]].
+	- This man gave [[Disious]] an item, 
+		- It was a purplish/black icicle that stabbed itself into his neck and formed a tatto like choker on his skin as it fused itself with [[Disious]]’s body.
+		- the man then says that this icicle is called the [[Chardalyn]]
+		- [[The Aracokra]] then leaves.
+- Meanwhile the rest of the party figure out how to open the doors. Using the crystal structure in the middle that ended up being a moonldile, we got [[Sir Forgotten]] to hold a shiny object and point light at the symbols of the moon.
+	- inside one of these doors was a member of the [[frost druids]], [[Ravison]].
+	- We fought and captured her, with plans to interrogate here.
+	- There we also find a sentient berry bush, [[George Bush]].
+		- It tried to run away but we captured it with ease.
+		- This bush was created by [[Ravison]]
+		- The bush also told us that [[Ravison]] was using the [[White Moose]] and the other animals in order to kill the people of [[Ten Towns]] and purify this land.

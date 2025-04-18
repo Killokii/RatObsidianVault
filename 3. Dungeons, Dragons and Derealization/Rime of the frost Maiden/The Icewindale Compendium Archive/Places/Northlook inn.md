@@ -1,0 +1,3 @@
+- A inn of [[Bryn Shander]]
+- location of barkeeper [[Sarnix]]
+- We have put up a flyer for the [[Order of the Meek]]

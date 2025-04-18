@@ -1,0 +1,4 @@
+- we meet an artist at [[Northlook inn]].
+- We order 50 posters for the [[Order of the Meek]].
+- We also ask her to joint the [[Order of the Meek]] but she declines.
+- 
