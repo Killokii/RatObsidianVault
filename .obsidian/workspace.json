@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,10 +228,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a4bb1fc6e8c6919",
+  "active": "b5f5a1afcb29e80b",
   "lastOpenFiles": [
-    "D.Messenger.md",
     "D.Scene1 Interactions..md",
+    "D.Messenger.md",
     "Pijawki Dialogue.md",
     "PIJAWKI.md",
     "4. Rattus Writing Workshop/Rattus Creative Workshop.md",

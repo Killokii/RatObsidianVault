@@ -1,5 +1,5 @@
 === 
-Corpse
+Corpse below the messengers feet
 ---
 
 Istota: As you squat down to the corpse below the messengers feet, an odd feeling overtakes you as you look at its clothing. it looked familliar, earily familar. and not only that... 
@@ -7,6 +7,8 @@ Istota: As you squat down to the corpse below the messengers feet, an odd feelin
 patyczek: the uniform was made out of fish skin. it was thick, filled with the past imprints of scales and the distinct smell of water.
 
 === 
+
+
 
 Carriage ruins
 ---
@@ -19,5 +21,12 @@ patyczek: and there...
 istota: you focus on the half destoyed insignia on the side of the carrige.
 
 Istota: its... a insignia of the eel.
+
+=== 
+
+Rubble
+---
+
+Istota:  you theorize what destoryed the carrige... was it a beast? defnetly seems like it with how the carrige was torn apart, and with the talon marks.
 
 === 

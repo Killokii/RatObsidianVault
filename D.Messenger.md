@@ -37,7 +37,17 @@ Istota: They Ignore you. Its not like you are interested in talking with them ei
 
 
 
-(Look around site first)
+	//(Look around site first)
+
+
+
+
+
+
+
+
+
+
 
 Istota: Then it clicked—was the corpse under the first one supposed to be the recipient of the letter? But if so, the Messenger should have left and tried to deliver it to the corpse’s closest kin, or back to the sender.
 
