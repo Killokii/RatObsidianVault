@@ -1,89 +1,37 @@
 {
   "main": {
-    "id": "d00c9f6d4af54659",
+    "id": "6878f13b77d55500",
     "type": "split",
     "children": [
       {
-        "id": "ed6790684090568b",
-        "type": "split",
+        "id": "b74609cda563fa41",
+        "type": "tabs",
         "children": [
           {
-            "id": "0b8a0884629cc5cf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "53be8ec3191d0856",
-                "type": "leaf",
-                "state": {
-                  "type": "weekly",
-                  "state": {},
-                  "icon": "calendar-with-checkmark",
-                  "title": "Week Planner"
-                }
-              }
-            ]
-          },
-          {
-            "id": "cfc6dbd814b39e00",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "11049ba8d6b4b625",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "8. Journal/Th-Jan-16-2025.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Th-Jan-16-2025"
-                }
+            "id": "d29e923c7f07471a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ahhh.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "f5805eafe4a4f67e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "8. Journal/We-Jan-29-2025.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "We-Jan-29-2025"
-                }
-              },
-              {
-                "id": "53c01b3901170a24",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "8. Journal/Su-Feb-9-2025.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Su-Feb-9-2025"
-                }
-              }
-            ],
-            "currentTab": 2
+              "icon": "lucide-file",
+              "title": "Ahhh"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a116a30825a369aa",
+    "id": "fcc58d151a97e63c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "46a6d0c5b139310e",
+        "id": "8f9678c3f89d55f6",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -96,7 +44,7 @@
         }
       },
       {
-        "id": "2770981f25d79bdb",
+        "id": "8623763314d49599",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -113,20 +61,22 @@
         }
       },
       {
-        "id": "7c5ae564fa81abd3",
+        "id": "fbda616f5d480156",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-tags",
           "title": "Tags"
         }
       },
       {
-        "id": "ac7b19d863868feb",
+        "id": "5ee0ef42035c572d",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -139,11 +89,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "307853820976395d",
+    "id": "4c796f7eaa273a05",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "ca5d3a853e9a0178",
+        "id": "3330f6fb0086f3e6",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -161,7 +111,7 @@
         }
       },
       {
-        "id": "030ce98f818c19e1",
+        "id": "c81f0ccfbb891b5d",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -174,37 +124,21 @@
         }
       },
       {
-        "id": "d6ffc79718e4e060",
+        "id": "d0d12366ea913f98",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
       },
       {
-        "id": "f4e50b41c6a3d840",
-        "type": "leaf",
-        "state": {
-          "type": "timeline",
-          "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Timeline"
-        }
-      },
-      {
-        "id": "6f53bd4439ec3cbc",
-        "type": "leaf",
-        "state": {
-          "type": "DICE_ROLLER_VIEW",
-          "state": {},
-          "icon": "dices",
-          "title": "Dice Tray"
-        }
-      },
-      {
-        "id": "fd0ad6f31e70f7cf",
+        "id": "d9412a9f60deb918",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -214,21 +148,32 @@
         }
       },
       {
-        "id": "5fa70e44b5613f1f",
+        "id": "0f12aad05add7a5c",
         "type": "leaf",
         "state": {
-          "type": "git-view",
+          "type": "timeline",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "calendar-with-checkmark",
+          "title": "Timeline"
+        }
+      },
+      {
+        "id": "39bb5cf7ff6d5a0e",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "dices",
+          "title": "Dice Tray"
         }
       }
     ],
-    "currentTab": 6
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-day-planner:Timeline": false,
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -237,56 +182,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-day-planner:Timeline": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53c01b3901170a24",
+  "active": "d29e923c7f07471a",
   "lastOpenFiles": [
-    "8. Journal/Tu-Feb-4-2025.md",
-    "8. Journal/Su-Feb-9-2025.md",
-    "8. Journal/Mo-Feb-3-2025.md",
-    "8. Journal/Sa-Feb-1-2025.md",
-    "Email draft.md",
-    "8. Journal/We-Jan-29-2025.md",
-    "8. Journal/Sa-Jan-18-2025.md",
-    "Rodent list of Buys.md",
-    "1. Homepage/Rattus’s Compendium of Every little thing.md",
-    "8. Journal/Th-Jan-16-2025.md",
-    "Untitled 11.md",
-    "Kin Of Yarilo (GDD).md",
-    "4. Rattus Writing Workshop/Rattus Creative Workshop.md",
-    "8. Journal/Mo-Jan-13-2025.md",
-    "8. Journal/Sa-Jan-4-2025.md",
-    "8. Journal/We-Jan-1-2025.md",
-    "8. Journal/Th-Jan-2-2025.md",
-    "Jarilo Book of Lore.md",
-    "8. Journal/Tu-Dec-17-2024.md",
-    "EA JOB reply.md",
-    "8. Journal/Tu-Dec-10-2024.md",
-    "Why fear and hunger is a good horror..md",
-    "8. Journal/We-Dec-4-2024.md",
-    "Untitled 10.md",
-    "8. Journal/Th-Nov-28-2024.md",
-    "8. Journal/We-Nov-27-2024.md",
-    "Untitled",
-    "Excalidraw",
-    "Untitled 4.canvas",
-    "Rathamanthus.canvas",
-    "8. Journal/personal",
-    "11. Journal",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "7. Vault Managment/Pasted image 20240505214400.jpg",
-    "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/The Icewindale Compendium Archive/Rumors",
-    "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/The Icewindale Compendium Archive/Wonders",
-    "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/The Icewindale Compendium Archive/Powers",
-    "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/The Icewindale Compendium Archive/Places",
-    "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/The Icewindale Compendium Archive/People",
-    "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/The Icewindale Compendium Archive",
-    "Dnd/-- Eligor Lua --.canvas"
+    "Ahhh.md",
+    "ee.md",
+    "gitignore"
   ]
 }
