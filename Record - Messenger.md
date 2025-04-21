@@ -118,9 +118,11 @@ This was quite the embarrassing miscalculation, I mean I was in such a state whe
 
  Who broke me out of the ice was a messenger who noticed my eyes shifting in the ice as it passed by.
 
-He couldn’t speak, lacking a jaw, and of course had no eyes. But he gestured and drew in the snow 
+He couldn’t speak, lacking a jaw, and of course had no eyes. But he gestured and drew in the snow, so communication was next to no issue. He was polite, awkward, and clearly overwhelmed by my barrage of questions. He was extremely human, not like a typical messenger at all. If not for his appearance and him being quite transparent with his origins, I would have never havethrough that the man before me was that messenger noble that escaped from the agency.
 
-. He was polite, awkward, and clearly overwhelmed by my barrage of questions. I was, admittedly, rather excited—I had never encountered an independent messenger with such humanity.
+I was p
+
+ I was, admittedly, rather excited—I had never encountered an independent messenger with such humanity.
 
 His name was Dymitr. A noble, once. He had volunteered for death to take the blame for a sibling accused of rebellion. (Which, frankly, was idiotic. Noble families eat their own. Always have.) Upon returning to his family in undeath, they failed to recognize him. When he insisted on revealing the truth, they attacked. They shattered his jaw and drove him into the wilderness like a dog.
 
