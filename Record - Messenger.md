@@ -114,11 +114,13 @@ As luck would have it, I met that run away messenger a couple of years later.
 
 It happened during an expedition to the Morzana territory, where I was investigating some newly discovered wildlife that caught my attention. I must note here that, as a Scholar of Gamayun, my body is immune to most environmental hazards—including frost. However, being harmed and restrained were two different things. And as I became a little bit too secure swimming in half frozen lakes, this gap in logic hit me straight in the face as I was frozen solid. 
 
-This was quite the embarrassing miscalculation, I mean I was in such a state where I could not even utter a single spell, let alone call for help. Thanks was, at the time, waiting for that crimson-armored buffoon to notice my absence and come looking for me. He did not.
+This was quite the embarrassing miscalculation, I mean I was in such a state where I could not even utter a single incantation, let alone call for help. Thanks to that, all I could do is wait for that crimson-armored buffoon to notice my absence and come looking for me but before he came I had a another rescuer" come to my aid. instead
 
-Instead, I was rescued by a messenger who noticed my eyes shifting in the ice as it passed by.
+ Who broke me out of the ice was a messenger who noticed my eyes shifting in the ice as it passed by.
 
-He couldn’t speak, lacking a jaw, and of course had no eyes. But he gestured. Drew in the snow. He was polite, awkward, and clearly overwhelmed by my barrage of questions. I was, admittedly, rather excited—I had never encountered an independent messenger with such humanity.
+He couldn’t speak, lacking a jaw, and of course had no eyes. But he gestured and drew in the snow 
+
+. He was polite, awkward, and clearly overwhelmed by my barrage of questions. I was, admittedly, rather excited—I had never encountered an independent messenger with such humanity.
 
 His name was Dymitr. A noble, once. He had volunteered for death to take the blame for a sibling accused of rebellion. (Which, frankly, was idiotic. Noble families eat their own. Always have.) Upon returning to his family in undeath, they failed to recognize him. When he insisted on revealing the truth, they attacked. They shattered his jaw and drove him into the wilderness like a dog.
 
