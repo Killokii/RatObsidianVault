@@ -6,7 +6,8 @@
 Messenger Introduction
 --- 
 === 
-
+<<declare $speakWithMessenger = false>>
+<<if $speakWithMessenger = false>>
 Istota: As you walk up to the figures, none of them respond to you in the slightest.
 
 Istota: While they do not respond to you, you are taken quite aback by their presence.
@@ -24,6 +25,11 @@ Istota: then you should stop focusing on the messengers and continue your lootin
 
 	// Then you notice the other two nearby—one crouched beside the remains of a broken carriage, carefully collecting scattered scraps of parchment, and the third perched unnervingly still on a jagged rock, head tilted at an impossible angle. All three of them held identical canisters.
 
+<<else>>
+
+<< jump MessengerIgnore>>
+
+<<endif>>
 
 
 
