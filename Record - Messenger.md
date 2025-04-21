@@ -1,38 +1,52 @@
-**
+Mentioned topics:
+[[Record - Morzana]]
+[[Record - The Agency]]
+[[Character - Dymitr]]
 
-Their bodies are a pale shade of blue and yellow, not obfuscating ther status as corpses in the slightest. they have blackened extemeties bloched with hues of blue as if they were heavily frost bitten. All of them lack eyes as this is something that is extracted in their early production as it is found that removing their sight tends to make it easier for them to make obidient.
 
-The messengers are a service that runs all through prawia. They are an essential part to communication around this continent as they are the easiest way one can pass around small packages. They: being undead and beings without blood are immune to the effects of rapidness that may influence them when traveling though certain areas, and they are also inherently not a attractive thing to hunt for beasts or the rabid as they lack any blood for to harvest and their meat is rotten. In the case that a messenger dies, there are magical artigacts placed in their bodes that inform the sender that the messenger failed. Due to there still being some risk in transportation, usually the items being transported are not vaulube
 
-  
 
-Messengers ad morana:
+The messengers are a service that runs all through Prawia and are made and run under the messenger agency which is ownen by the morana bastion. the messenger agency is seperated from the morana bastion and acts like its own neautral entity. it is run by a a extremely powerful necromanced that is on the same level of prestige as the morana countries royals. 
 
-  
+the messnegers have become an communication across the continent, being the most reliable means of transporting small packages and letters. even i use a messnger, through not one directly under the Agency.
 
-The standard messengers lack combat capability as they are not made for the sake of combat and in order for them to seamely go into any city regardless of that cities aliggence to another. If they had combat cababilites cities would wonder if these things could be harmful. The standard messengers lack heads or have faces without any orahaces, unable to make any noise which also helps them into the intergration as they are less likely to be suspected to be used for nefarious purpouses.
+what makes them so succsesfull is that as undead beings without blood, they are immune to the effects of rapidness that might plague the living when traveling through certain areas, making them the most efficient method of delivery. They are also inherently unappealing prey for beasts or the rabid—lacking both blood to harvest and fresh meat to consume. 
 
-  
+what also works form them is their neatrality: Standard messengers lack combat capabilities. This is intentional, designed so they may move through any city regardless of political allegiance. Were they armed or empowered in some way, cities might suspect they were a threat. Many lack heads entirely, or have faces stripped of orifices, rendering them mute. This silence aids their integration, making them less likely to be seen as tools for nefarious purposes.
 
-This service is on the more expensive side for people of the working class but it is still highly used by all people as communication is often invaluable.
+The Agency also worked hard to make sure that their sevice is as reliable as possible. In the case a messenger dies en route, magical artifacts placed inside their bodies alert the sender of the failure. though Due to the lingering risks of transportation, the items standard messengers carry are rarely valuable. the pirces are acctually quite reasonable aswell, with most people in the working class being able to mail thigs without it being a financal strain. the cost for the standard messnegers is more symbolic than anything.
 
-  
+the way the Agency acctrialy gets propper profict is in two ways: 
 
-The high messengers are a variant that is only used by vip customers like royals, large business owners and religious leaders… such people. They are bigger than standard messenger ears but the more important details are that they can speak and hace combat cabibilites. They are made in such a way as they have to guard the letter with much care as because og their client, the letters they are Dilo rely are more likely to be stolen.
+the first is 
 
-  
+for more valuable products, high messengers are used.
 
-Messenger manufacture.
+Their bodies are a pale shade of blue and yellow, not obscuring their status as corpses in the slightest. They have blackened extremities blotched with hues of blue, as if heavily frostbitten. All of them lack eyes—these are extracted early in their production, as it’s been found that removing their sight makes them easier to control and more obedient.
 
-messengers are all ex-convicts and various death row crimmanals. somehow this is the most ethical aspect of their prodction. after being delivered to the bastion of morana, they are killed by freezing them to death- this is to perseve the body as freshly as possible. while they are frozen, rituals are performed on them to bring them back to life - though it must be noted that this is not true ressurection and due to being performed on newly killed well preseved bodies, this is barely possible. qand necromancy is one of the things that morana specializes in anyway. these newly revived undead loose most of their inteligence, most regressing to the integience of a infant while some rare cases having them keep their inteligence higher. the amount of inteligence a messenger keeps after their conversion later decides its rank and the amount of training and tinkering they will recive. anyway after they are converted and sorted, they firstly dried and mummified(while fully conscious) and afyer are are treated in numerous, supposedly perserving and strengtheing like embalment rituals to make sure we dont have decaying stinking corpses acting as messengers. then they are trained for their messingigng duties.
+High messengers are a variant reserved for VIPs: royals, powerful business owners, and religious leaders.  basisallhy you eather have to pay a fortune or have reputation/ reppor in the agency. They are larger than standard messengers and, more importantly, possess both the ability to speak and defend themselves. They are crafted to guard their deliveries with utmost care, for their contents are often the most coveted.
 
-messengers often each have their own mild, yet distinc personalities. they keep some of their wualities from when they were alive. most do not let it show though as any show of personality is often met with extremely harsh punishments. this is only not the case for messengers of high status that are usaly allowed to be themselves more.
+---
+**<center>On Messenger Production</center>**
+All messengers are made from ex-convicts and death row criminals—somehow the most ethical part of the process. they are soutced from all over the continent as even places hostile to morana use the messngers and those bastion send over someo f their convicts. Once delivered to the Bastion of Morana, they are executed by freezing, a method that preserves the body in as pristine a state as possible. While frozen, rituals are performed to bring them back—not true resurrection, but something close enough. The technique only works on freshly-killed, well-preserved bodies. Fortunately (or not), necromancy is something Morana specializes in.
 
-intresting fact about them: they are absolutley not allowed to wear shoes and anything other than their assinged clothes as it has been ingraned into them from thje start of their training that that is for people and not slaves like them. they will be physically repulsed by the mere suggestion of giving them such items. i wonder how harsh they dicipline them in order to recive such a response from them.
+The newly-raised undead lose most of their intelligence, regressing to the mind of an infant—though rare exceptions retain more of their former minds. The intelligence level they retain determines their rank and the degree of training or augmentation they receive, with more intelligent individuals being trained as high messengers.
 
-  
+Following this, they are dried and mummified while fully conscious, and then subjected to countless embalming rituals meant to preserve and strengthen their form. No one wants decaying, reeking corpses handling their mail after all, right? Once preserved, they begin training for their duties.
 
-Personal anegtode:
+Messengers are most often made from the bodies of the lowly. Any noble condemned to death would be butchered for parts instead—noble blood is too valuable to waste. In all my years, I’ve only met one noble messenger. The encounter haunts me still.
 
-  
-**
+His name was Dymitr. He had volunteered for death to save a sibling accused of rebellion against Morana. When he returned to his family after his transformation, they failed to recognize him. After a brief confrontation, they attacked him. They only managed to knock out his jaw before he fled into the snowy wasteland. He had no lower jaw, his tongue dangled loosely, and his eyes were long gone—yet somehow, his mannerisms remained painfully human. I remember how he tilted his head at the sky, searching for some glimmer of meaning. When I met him, I had been testing my frost resistance and nearly died. He broke me from the ice, nursed me back to health, and tried to escort me to the nearest town.
+
+He couldn’t speak, but he tried to communicate through drawing and gestures. He seemed overwhelmed by my constant questions, flustered and bashful. Through my prodding and his patient scribbles, I learned who he was—and that he had been abandoned by the very people he gave his life for. His expression—what was left of it—still lingers in my memory. I couldn’t let him keep wandering.
+
+I offered him employment. Told him he could be whatever he wanted: a butler, cook, accountant, bodyguard, or just someone to chat with. Anything but alone in the snow. It took convincing, but eventually he agreed. Now he serves as my assistant, performing odd jobs here and there. I don’t think I’ve ever made a better hire.
+
+---
+
+Messengers often retain mild, yet distinct personalities. Traces of their former selves. Most suppress it—any sign of individuality is often met with brutal punishment. Only high-status messengers are permitted to express themselves freely.
+
+One curious fact: messengers are absolutely forbidden from wearing shoes or anything outside their assigned garments. It’s ingrained in them from training that such things are for people—not slaves like them. They recoil at the mere suggestion. I sometimes wonder how harsh their discipline must be to instill that kind of response.
+
+
+![[Pasted image 20250421163704.png]]
