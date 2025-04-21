@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D.Messenger.md",
+                "file": "8. Journal/Mo-Apr-21-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D.Messenger"
+              "title": "Mo-Apr-21-2025"
             }
           },
           {
@@ -222,7 +222,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-day-planner:Timeline": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
@@ -230,8 +229,9 @@
   },
   "active": "b5f5a1afcb29e80b",
   "lastOpenFiles": [
-    "D.Scene1 Interactions..md",
     "D.Messenger.md",
+    "8. Journal/Mo-Apr-21-2025.md",
+    "D.Scene1 Interactions..md",
     "Pijawki Dialogue.md",
     "PIJAWKI.md",
     "4. Rattus Writing Workshop/Rattus Creative Workshop.md",
@@ -256,7 +256,6 @@
     "Part II.md",
     "Part I Adults.md",
     "Page 31.md",
-    "Page 30.md",
     "Untitled",
     "Excalidraw",
     "10. Archive",
