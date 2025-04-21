@@ -30,5 +30,8 @@
     "command-palette:open"
   ],
   "mobilePullAction": "command-palette:open",
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "spellcheckDictionary": [
+    "Prawia"
+  ]
 }

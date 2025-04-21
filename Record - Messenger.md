@@ -1,7 +1,18 @@
 Mentioned topics:
 [[Record - Morzana]]
 [[Record - The Agency]]
+[[Record - Prawia]]
+
 [[Character - Dymitr]]
+
+
+<center>Messengers and the Messenger Agency</center>
+Compiled (and commented) by Emil, Scholar of Gamayun, Disciple of the Minister of Knowledge.
+
+Ah, the Messengers — perhaps one of the most elegant yet unsettling institutions in operation within the continent of Prawia. Their reach Spans From the sun Kissed lands of Zoyra to the abyssal sees, and their efficiency fined tuned to such a degree that it even inspires awe from me.
+
+The Messengers operate under a semi-independent agency technically under the dominion of the Morzana bastion and royalty, through describing it as merely a governmental wing would be laughably reductive at best. In fact, they operate outside the Morzana governmental structures an function as a neutral body, detached from political and religious squabbles.
+
 
 
 
@@ -18,11 +29,12 @@ The Agency also worked hard to make sure that their sevice is as reliable as pos
 
 the way the Agency acctrialy gets propper profict is in two ways: 
 
-the first is 
+the first is in corpses: the coutnries always send over fresh corpses to the agency in order for there being a constant supply of messengers.
 
-for more valuable products, high messengers are used.
+second is in magic items and high quality materials from high profile coustemers.
 
-Their bodies are a pale shade of blue and yellow, not obscuring their status as corpses in the slightest. They have blackened extremities blotched with hues of blue, as if heavily frostbitten. All of them lack eyes—these are extracted early in their production, as it’s been found that removing their sight makes them easier to control and more obedient.
+for more valuable products messengers could be uses, but it hat to be a special type. high messengers are used.
+
 
 High messengers are a variant reserved for VIPs: royals, powerful business owners, and religious leaders.  basisallhy you eather have to pay a fortune or have reputation/ reppor in the agency. They are larger than standard messengers and, more importantly, possess both the ability to speak and defend themselves. They are crafted to guard their deliveries with utmost care, for their contents are often the most coveted.
 
@@ -34,19 +46,25 @@ The newly-raised undead lose most of their intelligence, regressing to the mind 
 
 Following this, they are dried and mummified while fully conscious, and then subjected to countless embalming rituals meant to preserve and strengthen their form. No one wants decaying, reeking corpses handling their mail after all, right? Once preserved, they begin training for their duties.
 
-Messengers are most often made from the bodies of the lowly. Any noble condemned to death would be butchered for parts instead—noble blood is too valuable to waste. In all my years, I’ve only met one noble messenger. The encounter haunts me still.
-
-His name was Dymitr. He had volunteered for death to save a sibling accused of rebellion against Morana. When he returned to his family after his transformation, they failed to recognize him. After a brief confrontation, they attacked him. They only managed to knock out his jaw before he fled into the snowy wasteland. He had no lower jaw, his tongue dangled loosely, and his eyes were long gone—yet somehow, his mannerisms remained painfully human. I remember how he tilted his head at the sky, searching for some glimmer of meaning. When I met him, I had been testing my frost resistance and nearly died. He broke me from the ice, nursed me back to health, and tried to escort me to the nearest town.
-
-He couldn’t speak, but he tried to communicate through drawing and gestures. He seemed overwhelmed by my constant questions, flustered and bashful. Through my prodding and his patient scribbles, I learned who he was—and that he had been abandoned by the very people he gave his life for. His expression—what was left of it—still lingers in my memory. I couldn’t let him keep wandering.
-
-I offered him employment. Told him he could be whatever he wanted: a butler, cook, accountant, bodyguard, or just someone to chat with. Anything but alone in the snow. It took convincing, but eventually he agreed. Now he serves as my assistant, performing odd jobs here and there. I don’t think I’ve ever made a better hire.
-
----
+Their bodies are a pale shade of blue and yellow, not obscuring their status as corpses in the slightest. They have blackened extremities blotched with hues of blue, as if heavily frostbitten. All of them lack eyes—these are extracted early in their production, as it’s been found that removing their sight makes them easier to control and more obedient.
 
 Messengers often retain mild, yet distinct personalities. Traces of their former selves. Most suppress it—any sign of individuality is often met with brutal punishment. Only high-status messengers are permitted to express themselves freely.
 
 One curious fact: messengers are absolutely forbidden from wearing shoes or anything outside their assigned garments. It’s ingrained in them from training that such things are for people—not slaves like them. They recoil at the mere suggestion. I sometimes wonder how harsh their discipline must be to instill that kind of response.
 
 
+Messengers are most often made from the bodies of the lowly. Any noble condemned to death would be butchered for parts instead—noble blood is too valuable to waste. In all my years, I’ve only met one noble messenger. The encounter haunts me still.
+
+When I met him, I had been testing my frost resistance, which must be noted was not harmful to me in any way. as a Scholar of Gamayun, i possesed a body that would not be killed by mere frost-- but i did not take into accound that while i may not die, i could indeed get stuck once by body was froze solid and my vocal cords were diables, leaving me undable to utter a single spell. originally i was waiting for that crimson armored idiot to realize my disapearance and come to my aid, but who found me instead was dymitr, who broke me out and "nursed" me back to health. he even tried to escort me to the nearest town until i fully explained my myself to him.
+
+He couldn’t speak, but he tried to communicate through drawing and gestures. He seemed overwhelmed by my constant questions (as my curiosty towards this inteligent and independed messenger was overflowing), flustered and bashful. Through my prodding and his patient scribbles, I learned who he was—and that he had been abandoned by the very people he gave his life for. 
+
+His name was Dymitr. He had volunteered for death to take blame for a sibling accused of rebellion against Morana(which was very idoitic of him). When he returned to his family after his transformation, they failed to recognize him. After a brief confrontation, they attacked him. They only managed to knock out his jaw before he fled into the snowy wasteland. He had no lower jaw and his eyes were long gone leaving empty dark sockets—yet somehow, his mannerisms remained painfully human. I remember how he tilted his head at the sky, searching for some glimmer of meaning. 
+
+His expression—what was left of it—still lingers in my memory. I couldn’t let him keep wandering.
+
+I offered him employment. Told him he could be whatever he wanted: a butler, cook, accountant, bodyguard, or just someone to chat with. such a kind soul was rare in these lands as it is, and i did not think it was alright to keep him rotting out in this snow wastlant, this clear people person living such a lonely exisence was turly a upsetting sight. It took convincing, but eventually he agreed. Now he serves as my assistant, performing odd jobs here and there and acting as my messenger whenever i needed to do a dilivery. 
+
+
+May Gamayun’s knowledge be all-consuming.
 ![[Pasted image 20250421163704.png]]
