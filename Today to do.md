@@ -1,3 +1,0 @@
-- [ ] Submit concept art stuff
-- [ ] Start essay for games studies
-- [ ] 
