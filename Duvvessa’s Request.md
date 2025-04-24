@@ -1,0 +1,3 @@
+- [[Duvvessa Shane]] asked us to get information from [[Valish]] about the brotherhood.
+- Since [[Valish ]] died, we need to tell [[Duvvessa Shane]] about the incident in a discrete manner. Let’s say that we got the information form somewhere else.
+- 

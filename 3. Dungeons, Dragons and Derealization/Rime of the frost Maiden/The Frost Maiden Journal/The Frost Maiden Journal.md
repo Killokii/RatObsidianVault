@@ -25,6 +25,8 @@
 - [[Page 22]]
 - [[Page 23]]
 - [[Page 24]]
+1. [[Page 25]]
+2. [[Page 36]]
 
 %% End Waypoint %%
 
