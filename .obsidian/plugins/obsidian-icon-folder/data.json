@@ -6,8 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiAtom",
-      "⭕"
+      "LiAxe",
+      "LiArrowRight",
+      "LiAnchor",
+      "LiBadge",
+      "LiAperture"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,7 +31,12 @@
     "iconIdentifier": ":",
     "debugMode": false,
     "iconInTitlePosition": "above",
-    "lucideIconPackType": "native"
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
-  "1. Homepage/Rattus’s Compendium of Every little thing.md": "LiAtom"
+  "1. Homepage/Rattus’s Compendium of Every little thing.md": "LiAtom",
+  "7. Vault Managment": "LiAperture",
+  "1. Homepage": "LiBadge",
+  "2. Rattus Life Quest List": "LiArrowRight",
+  "3. Dungeons, Dragons and Derealization": "LiAxe"
 }
