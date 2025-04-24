@@ -74,9 +74,23 @@
               "icon": "lucide-file",
               "title": "Rats book of recipes"
             }
+          },
+          {
+            "id": "3af6750c6e38ff11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pijawki notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pijawki notes"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -149,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Rats Book of Recipies/Rats book of recipes.md",
+                "file": "Pijawki notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rats book of recipes"
+              "title": "Backlinks for Pijawki notes"
             }
           },
           {
@@ -168,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Rats Book of Recipies/Rats book of recipes.md",
+                "file": "Pijawki notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rats book of recipes"
+              "title": "Outgoing links from Pijawki notes"
             }
           },
           {
@@ -197,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Rats Book of Recipies/Rats book of recipes.md",
+                "file": "Pijawki notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rats book of recipes"
+              "title": "Outline of Pijawki notes"
             }
           },
           {
@@ -258,8 +272,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c496ea94b8022be4",
+  "active": "3af6750c6e38ff11",
   "lastOpenFiles": [
+    "Pijawki notes.md",
+    "6. Rats Book of Recipies/Rats book of recipes.md",
     "Dump.md",
     "Powers of rodynia.md",
     "Jarilo Book of Lore.md",
@@ -285,8 +301,6 @@
     "Page 35.md",
     "Untitled 6.md",
     "8. Journal/Mo-Mar-17-2025.md",
-    "8. Journal/Fr-Feb-28-2025.md",
-    "8. Journal/We-Feb-12-2025.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 4.canvas",

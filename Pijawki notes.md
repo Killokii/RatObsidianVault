@@ -1,0 +1,6 @@
+- [ ] More emphasis on the fact that Patyczek is a merchant of the eel assosiation.
+	- [ ] Can be easily skipped in dialogue
+- [ ] Make it so once you come to the consusion that this is the eel caravan you try to run but once you leave, the messenger at the end of the area will talk to you.
+- [ ] the leader of this caravan has gone insane and is spazing out.
+	- [ ] you cant have a converation with him because he is completely out of his mind
+	- [ ] you remark that this is a fate far worse than death.
