@@ -1,0 +1,1 @@
+The tower is quantum. This journal entry is done from the perspective of the young Emil
