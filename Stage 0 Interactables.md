@@ -15,20 +15,27 @@
 
 
 --- 
+Crate:
+
+<<Actor ST Istota>>
+    Istota: This crate does not have anything salvageable inside.
+
+---
+Gore Pile
+<<Actor ST GorePile>>
+    Istota: You wonder what turned these poor sods into an indistinguishable pile of gore.
+
+---
+Corpse:
 
 
-Crate
+<<Actor ST Istota>>
+    Istota: You crouch down and pat him down, but other than getting your hands full of blood, nothing else came of it.
 
---- 
-Crate 2
+      Patyczek: ...
+    
 
---- 
-Gore pile
+---
 
---- 
-Corpse
-Patyczek: 
-Istota: you go down andpat him down, but other than getting your hands full of blood, nothing really came of that.
-
---- 
-messenger
+<<Actor ST Messenger>>
+    Istota: They utterly ignore you, all of them staring at the corpse-like man with machine-like focus.
