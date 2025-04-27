@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "591de137a719dcb4",
+        "id": "0b8a0884629cc5cf",
         "type": "tabs",
+        "dimension": 50.05524861878453,
         "children": [
           {
-            "id": "d3bcedca862a6092",
+            "id": "7c4bbe651549b069",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/PIJAWKI.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "PIJAWKI"
+            }
+          }
+        ]
+      },
+      {
+        "id": "81c5b7e5e8cf3cd1",
+        "type": "tabs",
+        "dimension": 49.94475138121547,
+        "children": [
+          {
+            "id": "af281d32285fce59",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,105 +44,35 @@
             }
           },
           {
-            "id": "287ca8e203c50979",
+            "id": "953ff44fd984050d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Homepage/Rattus Compendium of Every little thing.md",
+                "file": "Stage 0 Interactables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rattus Compendium of Every little thing"
-            }
-          },
-          {
-            "id": "8ae3aa58f2ba6af9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/The Icewindale Compendium.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Icewindale Compendium"
-            }
-          },
-          {
-            "id": "44de8c810de65e95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Email Draft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Email Draft"
-            }
-          },
-          {
-            "id": "c496ea94b8022be4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Rats Book of Recipies/Rats book of recipes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rats book of recipes"
-            }
-          },
-          {
-            "id": "3af6750c6e38ff11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pijawki notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pijawki notes"
-            }
-          },
-          {
-            "id": "0d404d7f3f531109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Letter From Walentin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Letter From Walentin"
+              "title": "Stage 0 Interactables"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9c324b9bbd3782d1",
+    "id": "ddc052fdd134fa40",
     "type": "split",
     "children": [
       {
-        "id": "06336e202f87ebfc",
+        "id": "ad60b8bde9d36294",
         "type": "tabs",
         "children": [
           {
-            "id": "e15c32650d732ffd",
+            "id": "bb07ecb52f7d41c9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -131,7 +85,7 @@
             }
           },
           {
-            "id": "d683b7b31a5ff3c6",
+            "id": "1bb629f76f3f43fb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -148,7 +102,7 @@
             }
           },
           {
-            "id": "640ee164423ecb87",
+            "id": "2279e8156cfd11d7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -161,23 +115,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 373.5
   },
   "right": {
-    "id": "a3d26538eb364f54",
+    "id": "d0a586496ee34ff3",
     "type": "split",
     "children": [
       {
-        "id": "328228e6cfd22b00",
+        "id": "7966721b67737635",
         "type": "tabs",
         "children": [
           {
-            "id": "886bd13787770f99",
+            "id": "8ba71ad3c218868f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pijawki notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,25 +140,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pijawki notes"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "dd0ce4399d963fa1",
+            "id": "d841c332c75f35c0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pijawki notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pijawki notes"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "aa760a20ca66ce1c",
+            "id": "127309671140a551",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -220,32 +172,21 @@
             }
           },
           {
-            "id": "95475731c811a83e",
+            "id": "311589fbfe04c243",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pijawki notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pijawki notes"
+              "title": "Outline"
             }
           },
           {
-            "id": "854411bf4fddb956",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "17481fa0157f8363",
+            "id": "0734a1a6d37b0243",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -255,13 +196,23 @@
             }
           },
           {
-            "id": "4b33b41418dcf419",
+            "id": "ee3f0f4229812d1e",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
               "icon": "dices",
               "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "bc07dbaf29531b01",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -273,9 +224,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -283,18 +231,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-day-planner:Timeline": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0d404d7f3f531109",
+  "active": "953ff44fd984050d",
   "lastOpenFiles": [
-    "Readables.md",
-    "Letter From Walentin.md",
-    "3. Dungeons, Dragons and Derealization/27 1.md",
-    "8. Journal/2024-05-13.md",
+    "Untitled/Pijawki Dialogue.md",
+    "Stage 0 Interactables.md",
     "Untitled/PIJAWKI.md",
     "4. Rattus Writing Workshop/Rattus Creative Workshop.md",
+    "1. Homepage/Rattus Compendium of Every little thing.md",
+    "2. Rattus Life Quest List/Rattus Life Quest list.md",
+    "3. Dungeons, Dragons and Derealization/Rime of the frost Maiden/The Icewindale Compendium.md",
+    "Kin Of Yarilo (GDD).md",
     "1. Homepage/Rattus’s Compendium of Every little thing.md",
+    "Apocasite.md",
+    "8. Journal/Mo-Apr-28-2025.md",
+    "Letter From Walentin.md",
+    "Readables.md",
+    "3. Dungeons, Dragons and Derealization/27 1.md",
+    "8. Journal/2024-05-13.md",
     "8. Journal/Su-Apr-27-2025.md",
     "Record - The eel association hq.md",
     "Record - (Kin of Gamayun).md",
@@ -306,14 +265,6 @@
     "Dump.md",
     "Powers of rodynia.md",
     "Jarilo Book of Lore.md",
-    "Naberius, The shadow socc Dhampir.md",
-    "Why fear and hunger is a good horror..md",
-    "Kin Of Yarilo (GDD).md",
-    "EA JOB reply.md",
-    "Untitled 12.md",
-    "Venari notes.md",
-    "Medovniki.md",
-    "Page 25.md",
     "Rathamanthus.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
