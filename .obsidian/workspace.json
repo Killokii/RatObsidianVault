@@ -23,8 +23,23 @@
               "icon": "lucide-file",
               "title": "PIJAWKI"
             }
+          },
+          {
+            "id": "570da16b32c41a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 13"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "81c5b7e5e8cf3cd1",
@@ -239,8 +254,9 @@
   },
   "active": "953ff44fd984050d",
   "lastOpenFiles": [
-    "Untitled/Pijawki Dialogue.md",
+    "Untitled 13.md",
     "Stage 0 Interactables.md",
+    "Untitled/Pijawki Dialogue.md",
     "Untitled/PIJAWKI.md",
     "4. Rattus Writing Workshop/Rattus Creative Workshop.md",
     "1. Homepage/Rattus Compendium of Every little thing.md",
@@ -264,7 +280,6 @@
     "6. Rats Book of Recipies/Rats book of recipes.md",
     "Dump.md",
     "Powers of rodynia.md",
-    "Jarilo Book of Lore.md",
     "Rathamanthus.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",

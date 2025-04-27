@@ -1,4 +1,6 @@
 Corpse Like man
+Istota: you go down andpat him down, but other than getting your hands full of blood, nothing
+
 
 --- 
 Crate
@@ -14,5 +16,3 @@ Corpse
 
 --- 
 messenger
-
---- 
