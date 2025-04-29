@@ -32,6 +32,7 @@
   "mobilePullAction": "command-palette:open",
   "defaultViewMode": "source",
   "spellcheckDictionary": [
-    "Prawia"
+    "Prawia",
+    "WireWorms"
   ]
 }

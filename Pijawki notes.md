@@ -4,3 +4,8 @@
 - [ ] the leader of this caravan has gone insane and is spazing out.
 	- [ ] you cant have a converation with him because he is completely out of his mind
 	- [ ] you remark that this is a fate far worse than death.
+
+
+
+
+- [ ] make a game object that stores all the sriptable objects.
