@@ -10,6 +10,7 @@
           {
             "id": "5d21fb4d311cf140",
             "type": "split",
+            "dimension": 12.44047619047619,
             "children": [
               {
                 "id": "8c710b41b5c40561",
@@ -167,6 +168,7 @@
           {
             "id": "8d8453223205477c",
             "type": "tabs",
+            "dimension": 87.55952380952381,
             "children": [
               {
                 "id": "1d053dccb14be47a",

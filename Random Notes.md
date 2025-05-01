@@ -1,3 +1,31 @@
+
+///////////////////////////////////////////////////////////////////////////////////////////
+PROJECT OVERVIEW
+//////////////////////////////////////////////////////////////////////////
+
+ The core gameplay of Apocosite revolves around exploring a post-apocalyptic internet. Through casual browsing of forum posts and personal websites, players will discover how netizens have adapted to their new lives and information about the apocalypse itself.
+
+This game will be narrative driven, with world building done through writing and in-universe art. Apocosite will also not follow an overarching plot, instead it will focus on "micro stories". These being, small character interactions that will reveal more about the world, the people in it and the everyday situations they find themselves in. Rather than having objectives one must follow, Apocosite will present itself as a Toybox that encourages free form exploration, allowing players to decide how many micro stories they would like to uncover. Apocosite will aim to evoke a feeling of a 3AM Neocity rabbit hole, where players can interact with whatever piques their curiosity.
+
+This project is very much inspired by the pandemic lockdowns where I, and many, many more, chose the internet as the new go-to place for human interaction. //change
+
+
+Apocosite will be a reflection of how online communities became a primary place for me in terms of self-expression, forming connections, and simply hanging out despite feeling like the world was ending.
+
+As for how the game will be presented: It will emulate an actual browser interface with some gamified elements, and of course, functionality limited to only the forum and personal sites.
+
+//////////////////////////////////////////////////////////////////////////
+
+Core gameplay features:
+ Exploring forum posts, user profiles, and personal websites.
+ Piecing together the world’s history through ambient storytelling.
+
+
+
+
+
+---
+
 Aesthetic overview 
 The **visual aesthetic** will be gritty, a bit amateurish, and cobbled-together — reflecting that this was made by people rediscovering the internet for the first time in years. It will be highly inspired by the early 2000s internet with deliberately clunky layouts, aggressive colors and a lot of experimental expression.
 
