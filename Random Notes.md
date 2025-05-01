@@ -69,3 +69,22 @@ Image from
 
 
 Here is a moodboard
+
+---
+‧₊˚❀༉‧₊˚. TECHNICAL OVERVIEW ‧₊˚❀༉‧₊˚.
+The game will be made in Unity, primarily in 2D, with the only 3D element being the desk space (and silly gifs). The in-game browser will be a custom UI system designed to simulate navigating between web pages, rather than integrating a real web engine. Of course, it will feature both web and mobile support.
+
+‧₊˚❀༉‧₊˚. SCOPE  ₊˚❀༉‧₊˚. 
+The game content will include around 30 minutes or more of readable material; however, the game is not designed for players to read every single thing. Due to it being a series of webposts, the game will be highly modular so Apocosites/forum posts can be added and removed at will, making it easily scalable, up and down.
+
+₊˚❀༉‧₊˚. PROGRAMS ₊˚❀༉‧₊˚. 
+unty, github, cup studio, obsidian
+
+₊˚❀༉‧₊˚.  COMMISIONING ₊˚❀༉‧₊˚. 
+while there wont be any key collaborators, id likr to commision someone for sound design, and also 
+
+ ₊˚❀༉‧₊˚.  **Indigenous** PERSPECTIVES  ₊˚❀༉‧₊˚. 
+ id like to hire a indeginous consultnat, i have no idde ahow to get it done so i will be needing the help of acmi. 
+
+₊˚❀༉‧₊˚. MVP₊˚❀༉‧₊˚. 
+
