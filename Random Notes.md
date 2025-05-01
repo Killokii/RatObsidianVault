@@ -7,10 +7,7 @@ PROJECT OVERVIEW
 
 This game will be narrative driven, with world building done through writing and in-universe art. Apocosite will also not follow an overarching plot, instead it will focus on "micro stories". These being, small character interactions that will reveal more about the world, the people in it and the everyday situations they find themselves in. Rather than having objectives one must follow, Apocosite will present itself as a Toybox that encourages free form exploration, allowing players to decide how many micro stories they would like to uncover. Apocosite will aim to evoke a feeling of a 3AM Neocity rabbit hole, where players can interact with whatever piques their curiosity.
 
-This project is very much inspired by the pandemic lockdowns where I, and many, many more, chose the internet as the new go-to place for human interaction. //change
-
-
-Apocosite will be a reflection of how online communities became a primary place for me in terms of self-expression, forming connections, and simply hanging out despite feeling like the world was ending.
+This project is very much inspired by the pandemic lockdowns as during that time, I and many, many more, chose the internet as the new go-to place for human interaction. Apocosite will be a reflection of how online communities became a primary place for me in terms of self-expression, forming connections, and simply hanging out despite feeling like the world was ending.
 
 As for how the game will be presented: It will emulate an actual browser interface with some gamified elements, and of course, functionality limited to only the forum and personal sites.
 
@@ -19,6 +16,30 @@ As for how the game will be presented: It will emulate an actual browser interfa
 Core gameplay features:
  Exploring forum posts, user profiles, and personal websites.
  Piecing together the world’s history through ambient storytelling.
+
+---
+
+This game takes place in Australia, roughly 10 years after the apocalypse has happened. It all started with blood-red rain pouring from the sky as unknown beings descended onto an unprepared humanity. These eldritch beings quickly proved themselves insurmountable, and coupled with their mysterious ability to cut off all electrical signals within a certain radius, they toppled the strong global communications of humanity nearly overnight. While the extinction of man was avoided, the survivors were scattered in small isolated communities or lone bunkers, with any form other than person to person communication blocked. Some survivors even tried to get pigeon messengers back and running, but it was no use.
+
+It was not until years later when some unnamed individual decided that humanity had enough of this separation. Using the magical powers that leaked into the world along with these beings, they managed to establish a country wide network that was made to resemble the internet. With the aim of connecting the whole country together again, that individual traveled across regions, teaching people how to build and repair their own machines and how to pass this skill onto others.
+
+This new, fragile network serves as a window to this post apocalyptic world the player explores.
+
+---
+Apocosite will feature 3 main narrative elements: The Forum, The personal sites and of course the users who populate and make them.
+
+ApocositeForum: 
+This will be the landing page of apocasite and will filled with general discussions separated by topic. Some examples of the categories will include:
+General || Survival tips || New World magic || Art & Music || Tech Help || Advertising and trade hall 
+
+
+Personal sites(Apocosites): 
+Referred in universe as apocosites, these will be personal blogs. They will be discussing the users interests and hobbies and will be incredibly varied in topics. Some examples:
+Apocalypse Cooking || Mapping Australia || Fashion after the fall || Monster Wiki || @users virtual place || NewWorldTour
+	
+
+Users: 
+there will be users with distinct personalities and groundings in this world. A handful of them will have their own Apocosite.
 
 
 
