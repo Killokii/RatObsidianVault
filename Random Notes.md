@@ -39,7 +39,7 @@ Apocalypse Cooking || Mapping Australia || Fashion after the fall || Monster Wik
 	
 
 Users: 
-there will be users with distinct personalities and groundings in this world. A handful of them will have their own Apocosite.
+Apocosite will be populated with a treasure trove of users, all with colorful personalities and groundings in this world. Users will interact among each other in forums, and some of them will have their own Apocosites.
 
 
 
@@ -66,3 +66,6 @@ Apocosites is heavily inspired by Neocities websites and will borrow much of the
 As the game will be very much inspired by nrocity websites, I will be styling the Apocosites in a way that will replicate them. I will be making such things like a reusable library of emoticons/icons, background tiles, blinkies and buttons in house that will convery the internet culture and  in this post pocolyptic internet 
 
 Image from 
+
+
+Here is a moodboard
