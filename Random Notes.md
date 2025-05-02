@@ -80,7 +80,7 @@ The in-game browser will be a custom UI system designed to simulate navigating b
 This game being focused on reading, will include a couple features to make it more readible. while the core vision is to contain the pixelated astetic with the crhomatic abarration, i am aware that that can be a bit jarring to look at so there will be features to turn it of or lower the intensity. there will aso be a way to change all the text into a dyslexia friendly font. Due to the more flashy nature of neocites sites that will serve as inspiration for this, a eyestrain toggle will be featured as well.
 
 ‧₊˚❀༉‧₊˚. SCOPE  ₊˚❀༉‧₊˚. 
-The game content will include around 60 minutes or more of readable material; however, the game is not designed for players to read every single thing. it is made with the intent in mind that platers will skim read most of it and  Due to it being a series of webposts, the game will be highly modular so Apocosites/forum posts can be added and removed at will, making it easily scalable, up and down.
+The game content will include around 60 minutes or more of readable material; however, the game is not designed for players to read every single thing. it is made with the intent in mind that platers will skim read most of it and  Due to it being a series of webposts, the game will be highly modular so Apocosites/forum posts can be added and removed at will, making it easily scalable, up and down. should be arounf 4-6~k words gibe or take
 
 ₊˚❀༉‧₊˚. PROGRAMS ₊˚❀༉‧₊˚. 
 Unity: this will be the engine i work in! 
@@ -91,10 +91,22 @@ Obsidian: Organizing the project and a vault for or the in game text.
 
 
 ₊˚❀༉‧₊˚.  COMMISIONING ₊˚❀༉‧₊˚. 
-while there wont be any key collaborators, id likr to commision someone for sound design, and also 
+while there wont be any key collaborators, id likr to commision someone for sound design and original ost and for some art and writing.
+Inorger to add some diffrent writing styles and forms of experrion, i wna tto commission some guest "apocosite users" who will either write forum posts for a character, make some "user generated content" like art, or in bigger cases desgin a apocosite of their own.
 
  ₊˚❀༉‧₊˚.  **Indigenous** PERSPECTIVES  ₊˚❀༉‧₊˚. 
- id like to hire a indeginous consultnat, i have no idde ahow to get it done so i will be needing the help of acmi. 
+ id like to hire a indeginous consultnat, i have no idde ahow to get it done so i will be needing the help of acmi. i want to have their view of how they would fit into the game design.
 
 ₊˚❀༉‧₊˚. MVP₊˚❀༉‧₊˚. 
+> Clear world with hisorical events, monster lore, sets of communities and worldbuidling.
+> 30 forum users, each with their own profile, profile icon, profile description and a handful of forum posts
+> a "Government" Apocosite that will go through some of the post-apocoltic procedures in place to deal with monsters and how to identify certain monsters.
+> 5 unique apocosites
+> 10 forum posts100~300 words long
+> Proper sound implementation and 1 ost
+> Acsesibility features
+> Mobile view for phone users
+> fully realized visual style
+> in universe artwork
+> full site function: clincking on links, polls, looking closer on images, proper site stucture, ect.
 
