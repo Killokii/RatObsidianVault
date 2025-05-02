@@ -72,13 +72,23 @@ Here is a moodboard
 
 ---
 ‧₊˚❀༉‧₊˚. TECHNICAL OVERVIEW ‧₊˚❀༉‧₊˚.
-The game will be made in Unity, primarily in 2D, with the only 3D element being the desk space (and silly gifs). The in-game browser will be a custom UI system designed to simulate navigating between web pages, rather than integrating a real web engine. Of course, it will feature both web and mobile support.
+The game will be made in Unity, primarily in 2D, with the only 3D element being the desk space (and 3d text / silly gifs). there will be a setting for mobile view that removes the 3d space and just showcases Apocosite in a vertical screen reation. 
+
+The in-game browser will be a custom UI system designed to simulate navigating between web pages, rather than integrating a real web engine. Of course, it will feature both web and mobile support.
+
+‧₊˚❀༉‧₊˚. ACESSIBILITY FEATURES  ₊˚❀༉‧₊˚. 
+This game being focused on reading, will include a couple features to make it more readible. while the core vision is to contain the pixelated astetic with the crhomatic abarration, i am aware that that can be a bit jarring to look at so there will be features to turn it of or lower the intensity. there will aso be a way to change all the text into a dyslexia friendly font. Due to the more flashy nature of neocites sites that will serve as inspiration for this, a eyestrain toggle will be featured as well.
 
 ‧₊˚❀༉‧₊˚. SCOPE  ₊˚❀༉‧₊˚. 
-The game content will include around 30 minutes or more of readable material; however, the game is not designed for players to read every single thing. Due to it being a series of webposts, the game will be highly modular so Apocosites/forum posts can be added and removed at will, making it easily scalable, up and down.
+The game content will include around 60 minutes or more of readable material; however, the game is not designed for players to read every single thing. it is made with the intent in mind that platers will skim read most of it and  Due to it being a series of webposts, the game will be highly modular so Apocosites/forum posts can be added and removed at will, making it easily scalable, up and down.
 
 ₊˚❀༉‧₊˚. PROGRAMS ₊˚❀༉‧₊˚. 
-unty, github, cup studio, obsidian
+Unity: this will be the engine i work in! 
+Github: version control and backing up my work.
+clipStudio && Aseprite: the programs i will be making 2d art assets in.
+Substance painter/Blender: 3d asset pipeline.
+Obsidian: Organizing the project and a vault for or the in game text.
+
 
 ₊˚❀༉‧₊˚.  COMMISIONING ₊˚❀༉‧₊˚. 
 while there wont be any key collaborators, id likr to commision someone for sound design, and also 
