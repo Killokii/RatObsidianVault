@@ -77,63 +77,81 @@ Here is a moodboard
 
 ---
 ‧₊˚❀༉‧₊˚. TECHNICAL OVERVIEW ‧₊˚❀༉‧₊˚.
-**Apocasite** will be created in the Unity engine and will be done in 2D, with the exception being the 3D deskspace the PC-holding forum will be placed in//
+**Apocasite** will be created in the Unity engine and will be done in mostly in 2D, with the exception being the 3D deskspace.
 
-. The forum will use a combination of my own code and pre-existing Unity UI pipelines, like their buttons system. The coding work for this project will be more on the simple side due to it not having heavy gameplay elements, with most of the complexity arising from the creation of mobile and accessibility features.
+The forum will use a combination of my own code and pre-existing Unity UI pipelines, like their button system. The coding work for this project will be more on the simple side due to the lack of heavy gameplay elements, with most of the complexity arising from the creation of mobile and accessibility features.
 
-Before any official writing is done, I will be creating a robust lore document that will serve as a reference for all the content in the game. This document will also serve as a reference for any people I commission for art or writing. This document will outline things like how people are living right now, any important organizations, some communities/bases that have formed in this apocalypse, how magic works, monsters, details about the apocalypse, and so on. The text in this document will not be included verbatim in the game.
+‧₊˚❀༉‧₊˚. PROCESS OVERVIEW ‧₊˚❀༉‧₊˚.
+Before any official writing is done, I will be creating a robust lore document that will serve as a reference for all the content in the game. This document will also serve as a reference for any people I commission for art or writing.. The text in this document will not be included verbatim in the game.
 
 The writing for the project will be done in Obsidian before being placed in Unity. This is to keep all the text together while also making sure all the writing is structured and formatted correctly (Obsidian has a feature that allows one to link notes to one another, which functions quite similarly to how the sites I'm taking inspiration from function). These Obsidian drafts will be proofread by selected beta readers before being implemented into the game engine.
 
-Site decorations will begin production midway through the writing phase and will be tailored to suit the accompanying posts. Some of the artwork will be user-generated content, while other pieces will serve as client icons for the forum and the PC interface itself.
+Site decorations will begin production midway through the writing phase and will be tailored to suit the accompanying posts. Some of the artwork will be "user-generated content", while other pieces will serve as client icons for the forum and the PC interface itself.
 
 
 
 
 
-
-‧₊˚❀༉‧₊˚. ACESSIBILITY FEATURES  ₊˚❀༉‧₊˚. 
-This game being focused on reading, will include a couple features to make it more readible. while the core vision is to contain the pixelated astetic with the crhomatic abarration, i am aware that that can be a bit jarring to look at so there will be features to turn it of or lower the intensity. there will aso be a way to change all the text into a dyslexia friendly font. Due to the more flashy nature of neocites sites that will serve as inspiration for this, a eyestrain toggle will be featured as well.
-
-
-
-₊˚❀༉‧₊˚. PROGRAMS ₊˚❀༉‧₊˚. 
-Unity: this will be the engine i work in! 
-Github: version control and backing up my work.
-clipStudio && Aseprite: the programs i will be making 2d art assets in.
-Substance painter/Blender: 3d asset pipeline.
-Obsidian: Organizing the project and a vault for or the in game text.
-figma: site stucture concept art.
-
-
-₊˚❀༉‧₊˚.  COMMISIONING ₊˚❀༉‧₊˚. 
-while there wont be any key collaborators, id likr to commision someone for sound design and original ost and for some art and writing.
-Inorger to add some diffrent writing styles and forms of experrion, i wna tto commission some guest "apocosite users" who will either write forum posts for a character, make some "user generated content" like art, or in bigger cases desgin a apocosite of their own.
-
- ₊˚❀༉‧₊˚.  **Indigenous** PERSPECTIVES  ₊˚❀༉‧₊˚. 
- id like to hire a indeginous consultnat, i have no idde ahow to get it done so i will be needing the help of acmi. i want to have their view of how they would fit into the game design.
- 
- ---
-
-
-‧₊˚❀༉‧₊˚. Timeline overview ‧₊˚❀༉‧₊˚.
-this document will aslo be done to server as a refrence for any people i commision for art or writing. the creation process will go likethis: first the lore document will be made into a first draft, one that can be changed later. then i will do concept art for how the sites/forum is strucuterd and fglows in figma. then ill code the site functianlity and format it in engine beofre poulating it. while im pouplating it, i wll aso work on the mobilr and accesibility features before polishing eveything up. its paramount that this also gets play tested as much a spossibel to echeck if all the writing makes sense and coneavys what i intended. Site decorations will start to be profuced miday through writing and be made to suit the posts. the site decorations/usercontent will feature a mic of pixel art and animation, low resolution 3dart/animations, anolog post apocolptic art, and edited photographs.
+‧₊˚❀༉‧₊˚. **ACCESSIBILITY FEATURES** ₊˚❀༉‧₊˚.  
+This game, being focused on reading, will include a couple of features to make sure everyone can engage with the game properly. While the core vision includes a pixelated aesthetic with chromatic aberration, I’m aware that can be a bit jarring to look at - so there will be options to turn it off or lower the intensity. There will also be a way to switch all text to a dyslexia-friendly font and a way to alter the font size. Due to the more flashy nature of the _Neocities_-inspired sites, an _eyestrain toggle_ will also be featured.
 
 ---
 
-‧₊˚❀༉‧₊˚. SCOPE  ₊˚❀༉‧₊˚. 
-The game content will include around 60 minutes or more of readable material; however, the game is not designed for players to read every single thing. it is made with the intent in mind that platers will skim read most of it and  Due to it being a series of webposts, the game will be highly modular so Apocosites/forum posts can be added and removed at will, making it easily scalable, up and down. should be arounf 4-6~k words gibe or take
+‧₊˚❀༉‧₊˚. **PROGRAMS** ₊˚❀༉‧₊˚.  
+**Unity**: this will be the engine I work in!  
+**GitHub**: version control and backing up my work.  
+**Clip Studio** && **Aseprite**: for making 2D art assets.  
+**Substance Painter** / **Blender**: 3D asset pipeline.  
+**Obsidian**: organizing the project and storing in-game text.  
+**Figma**: site structure + concept art.
 
-₊˚❀༉‧₊˚. MVP₊˚❀༉‧₊˚. 
-> Clear world with hisorical events, monster lore, sets of communities and worldbuidling.
-> 30 forum users, each with their own profile, profile icon, profile description and a handful of forum posts
-> a "Government" Apocosite that will go through some of the post-apocoltic procedures in place to deal with monsters and how to identify certain monsters.
-> 5 unique apocosites
-> 10 forum posts100~300 words long
-> Proper sound implementation and 1 ost
-> Acsesibility features
-> Mobile view for phone users
-> fully realized visual style
-> in universe artwork
-> full site function: clincking on links, polls, looking closer on images, proper site stucture, ect.
+---
 
+‧₊˚❀༉‧₊˚. **COMMISSIONING** ₊˚❀༉‧₊˚.  
+While there won’t be any key collaborators, I’d like to commission someone for sound design, original OST, and for some art and writing.  To add different writing styles and forms of expression, I want to commission some guest “Apocosite users” who will either:
+- write forum posts for a character,
+- make some "user-generated content" like art,
+- or, in bigger cases, design an Apocosite of their own.
+    
+
+---
+
+‧₊˚❀༉‧₊˚. **INDIGENOUS PERSPECTIVES** ₊˚❀༉‧₊˚.  
+I’d like to hire an Indigenous consultant. I have no idea how to get this done, so I’ll be needing help from ACMI. I want their input on how their perspective would fit into the game design.
+
+---
+
+‧₊˚❀༉‧₊˚. **TIMELINE OVERVIEW** ₊˚❀༉‧₊˚.  
+
+- First, the lore document will be drafted (it can be changed later).
+- Then I’ll create concept art for how the sites/forums are structured and flow in Figma.
+- After that, I’ll code the site functionality and format it in-engine before populating it.
+- While populating it, I’ll also work on mobile and accessibility features before polishing everything up.  
+    Playtesting is paramount to make sure all the writing makes sense and conveys what I intended.  
+    Site decorations will start being produced midway through writing and will be tailored to the posts.  
+    They will include a mix of pixel art and animation, low-res 3D art/animations, analog post-apocalyptic art, and edited photographs.
+    
+
+---
+
+‧₊˚❀༉‧₊˚. **SCOPE** ₊˚❀༉‧₊˚.  
+The game content will include around 60 minutes or more of readable material. However, the game is not designed for players to read _everything_.  
+It’s made with the idea that players will skim most of it.  
+Because it’s structured as a series of webposts, the game is highly modular—Apocosites/forum posts can be added or removed easily, making it scalable.  
+Target word count: around 4–6k words, give or take.
+
+---
+
+‧₊˚❀༉‧₊˚. **MVP** ₊˚❀༉‧₊˚.
+
+> ✦ Clear world with historical events, monster lore, sets of communities and worldbuilding  
+> ✦ 30 forum users, each with their own profile, profile icon, description, and a handful of forum posts  
+> ✦ A “Government” Apocosite detailing post-apocalyptic procedures and monster identification  
+> ✦ 5 unique Apocosites  
+> ✦ 10 forum posts (100–300 words each)  
+> ✦ Proper sound implementation and 1 original soundtrack  
+> ✦ Accessibility features  
+> ✦ Mobile view for phone users  
+> ✦ Fully realized visual style  
+> ✦ In-universe artwork  
+> ✦ Full site functionality: clickable links, polls, zoomable images, proper site structure, etc.
