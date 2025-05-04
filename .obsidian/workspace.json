@@ -247,7 +247,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -423,10 +423,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6dedb7c66d0a5d8b",
+  "active": "63685b4431edcf7b",
   "lastOpenFiles": [
-    "Untitled 14.md",
     "Random Notes.md",
+    "Untitled 14.md",
     "8. Journal/Fr-May-2-2025.md",
     "28.md",
     "2024-05-14.md",
