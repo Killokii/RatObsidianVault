@@ -245,6 +245,16 @@
                   "icon": "lucide-file",
                   "title": "Untitled 14"
                 }
+              },
+              {
+                "id": "39553ebc637cb8de",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
               }
             ],
             "currentTab": 4
@@ -425,11 +435,11 @@
   },
   "active": "63685b4431edcf7b",
   "lastOpenFiles": [
+    "Untitled 14.md",
     "Character - Dymitr.md",
     "Record - Morzana.md",
     "8. Journal/Su-May-4-2025.md",
     "Random Notes.md",
-    "Untitled 14.md",
     "8. Journal/Fr-May-2-2025.md",
     "28.md",
     "2024-05-14.md",
