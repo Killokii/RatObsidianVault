@@ -4,437 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "3104791b3e5375c1",
-        "type": "split",
-        "children": [
-          {
-            "id": "5d21fb4d311cf140",
-            "type": "split",
-            "dimension": 12.44047619047619,
-            "children": [
-              {
-                "id": "8c710b41b5c40561",
-                "type": "split",
-                "children": [
-                  {
-                    "id": "d8d6f39082f149ef",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "bc07dbaf29531b01",
-                        "type": "leaf",
-                        "state": {
-                          "type": "calendar",
-                          "state": {},
-                          "icon": "calendar-with-checkmark",
-                          "title": "Calendar"
-                        }
-                      }
-                    ]
-                  },
-                  {
-                    "id": "63d150a5a6842941",
-                    "type": "tabs",
-                    "children": [
-                      {
-                        "id": "6374926c2da5356c",
-                        "type": "leaf",
-                        "pinned": true,
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "1. Homepage/Rattus Compendium of Every little thing.md",
-                            "mode": "source",
-                            "source": false
-                          },
-                          "pinned": true,
-                          "icon": "lucide-file",
-                          "title": "Rattus Compendium of Every little thing"
-                        }
-                      }
-                    ]
-                  }
-                ],
-                "direction": "horizontal"
-              },
-              {
-                "id": "4d580a6d31cfa978",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "afab3ead5da2d6b0",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "8. Journal/Th-May-1-2025.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Th-May-1-2025"
-                    }
-                  },
-                  {
-                    "id": "51daded56c356566",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "8. Journal/Fr-May-2-2025.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Fr-May-2-2025"
-                    }
-                  },
-                  {
-                    "id": "f8d1d78cd0368121",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "3. Dungeons, Dragons and Derealization/Dungeons, Dragons and Derealization.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Dungeons, Dragons and Derealization"
-                    }
-                  },
-                  {
-                    "id": "69914a933526bc95",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Apocasite.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Apocasite"
-                    }
-                  },
-                  {
-                    "id": "3b5c42c6fb943130",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Pijawki notes.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Pijawki notes"
-                    }
-                  },
-                  {
-                    "id": "95aac0ceafff25f8",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "8. Journal/We-Apr-30-2025.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "We-Apr-30-2025"
-                    }
-                  },
-                  {
-                    "id": "d1603c7f99ea6d1c",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "8. Journal/Th-May-1-2025.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Th-May-1-2025"
-                    }
-                  },
-                  {
-                    "id": "c75b9ed421448a4f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "empty",
-                      "state": {},
-                      "icon": "lucide-file",
-                      "title": "New tab"
-                    }
-                  }
-                ],
-                "currentTab": 7
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "8d8453223205477c",
-            "type": "tabs",
-            "dimension": 87.55952380952381,
-            "children": [
-              {
-                "id": "1d053dccb14be47a",
-                "type": "leaf",
-                "state": {
-                  "type": "weekly",
-                  "state": {},
-                  "icon": "calendar-with-checkmark",
-                  "title": "Week Planner"
-                }
-              },
-              {
-                "id": "580c334dcddf9620",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "8. Journal/Fr-May-2-2025.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Fr-May-2-2025"
-                }
-              },
-              {
-                "id": "6b11c3d396e24bf3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "8. Journal/Fr-May-2-2025.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Fr-May-2-2025"
-                }
-              },
-              {
-                "id": "6dedb7c66d0a5d8b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Random Notes.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Random Notes"
-                }
-              },
-              {
-                "id": "63685b4431edcf7b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Agata.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Agata"
-                }
-              },
-              {
-                "id": "39553ebc637cb8de",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              },
-              {
-                "id": "af2a219070fe91ee",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "8. Journal/Tu-May-20-2025.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tu-May-20-2025"
-                }
-              }
-            ],
-            "currentTab": 6
-          }
-        ],
-        "direction": "horizontal"
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "ddc052fdd134fa40",
-    "type": "split",
-    "children": [
-      {
-        "id": "ad60b8bde9d36294",
+        "id": "35ef6796a836e00a",
         "type": "tabs",
+        "dimension": 82.88590604026845,
         "children": [
           {
-            "id": "bb07ecb52f7d41c9",
+            "id": "6ef90dcf2ec1c980",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "file": "Hematurgy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "icon": "lucide-file",
+              "title": "Hematurgy"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "591de137a719dcb4",
+        "type": "tabs",
+        "dimension": 17.114093959731544,
+        "children": [
           {
-            "id": "1bb629f76f3f43fb",
+            "id": "d3bcedca862a6092",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "2279e8156cfd11d7",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "928942ecb170b5ec",
+    "type": "split",
+    "children": [],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "d0a586496ee34ff3",
+    "id": "dce093f187f95ec6",
     "type": "split",
-    "children": [
-      {
-        "id": "7966721b67737635",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8ba71ad3c218868f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "8. Journal/Sa-May-17-2025.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Sa-May-17-2025"
-            }
-          },
-          {
-            "id": "d841c332c75f35c0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "q.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from q"
-            }
-          },
-          {
-            "id": "127309671140a551",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "311589fbfe04c243",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "q.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of q"
-            }
-          },
-          {
-            "id": "ee3f0f4229812d1e",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "eaec99d9dbf73255",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          }
-        ],
-        "currentTab": 4
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 445.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -442,20 +73,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-day-planner:Timeline": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "af2a219070fe91ee",
+  "active": "6ef90dcf2ec1c980",
   "lastOpenFiles": [
-    "CODE DICTIONARY.md",
-    "8. Journal/Tu-May-20-2025.md",
-    "Agata.md",
-    "Pijawki Characters.md",
+    "Untitled/Pijawki Book of Lore.md",
+    "Untitled 16.md",
+    "Hematurgy.md",
+    "8. Journal/Fr-May-16-2025.md",
+    "8. Journal/Th-May-15-2025.md",
     "Untitled/PIJAWKI.md",
     "4. Rattus Writing Workshop/Rattus Creative Workshop.md",
     "1. Homepage/Rattus’s Compendium of Every little thing.md",
+    "8. Journal/Tu-May-20-2025.md",
+    "CODE DICTIONARY.md",
+    "Agata.md",
+    "Pijawki Characters.md",
     "8. Journal/Mo-May-19-2025.md",
     "8. Journal/We-May-14-2025.md",
     "8. Journal/Tu-May-13-2025.md",
@@ -470,11 +104,6 @@
     "28.md",
     "2024-05-14.md",
     "39.md",
-    "2024-05-13.md",
-    "27.md",
-    "8. Journal/Th-May-1-2025.md",
-    "q.md",
-    "8. Journal/We-Apr-30-2025.md",
     "New folder",
     "Rathamanthus.canvas",
     "Untitled.canvas",
