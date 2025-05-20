@@ -1,0 +1,1 @@
+The lowly make up most of the population and are far less knowledgeable in mysticism and power.

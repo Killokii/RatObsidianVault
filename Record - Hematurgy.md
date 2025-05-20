@@ -1,12 +1,31 @@
+##### Mentioned Articles
+[[Record - The Noble]]
+[[Record - The Lowly]]
+[[Record - Prawia]]
+[[Record - Verin]]
+[[Record - Pijawki]]
 
-What is Hematurgy?
+
+
+##### What is Hematurgy?
 
 
 
 
 
+How does magic function, and what are its limits?
+
+Who can use magic, and how do they learn it?
+
+What are the costs or dangers of using magic?
+
+Are there magical artifacts, and what significance do they hold?
 
 
+
+Consuming blood of prawia
+
+> collecting blood from living beings rather than the ground is beneficial.
 
 
 
@@ -35,11 +54,7 @@ What differentiates these tools from their non-magical counterparts is the fact 
 
 As Verin is an organism made out of Prawia’s blood and has been dug out from deep within her core, it is debated in scholarly circles whether Verin is, in fact, a piece of Prawia herself—though I personally believe that it is not. Verin, quite similar to an amoeba, is an organism that can be infinitely sliced and divided, yet still conjoin into itself and thus be reused. There were many quite funny cases at the beginning of Thorn usage where they were not properly tempered—so when weapons clashed into one another, they sometimes conjoined and melded together mid-battle.
 
-Verin, unlike actual metal, must be fed to stay alive and can die if neglected. Once starved, Verin loses many of its magical properties and acts more like a standard metal. While Dead Verin can no longer be used for Thorns, it is commonly repurposed for everyday magical devices and weapons for the Lowly. The most common use for Dead Verin is in our universal currency, _Krev
-
-
-
-_, with our coins being made out of it.
+Verin, unlike actual metal, must be fed to stay alive and can die if neglected. Once starved, Verin loses many of its magical properties and acts more like a standard metal. While Dead Verin can no longer be used for Thorns, it is commonly repurposed for everyday magical devices and weapons for the Lowly. The most common use for Dead Verin is in our universal currency, _Krev_, with our coins being made out of it.
 
 The Verin and its user form a symbiotic relationship: the user channels the Verin for casting and power, while the Verin uses the user as sustenance.
 
@@ -48,6 +63,13 @@ There are two different bodies of Verin cultures, commonly called Warm and Cold 
 **Ogierin** (_Warm Verin_) is always warm to the touch—just shy of being scalding. Ogierin Thorns specialize in casting at longer ranges, and the skills that can be performed through them are quite varied. Unlike their cold counterparts, they can be used to cast standardized hematurgic formulas. They also bond with the user by strengthening their Rena, increasing blood production and quality. Ogierin is flexible to the user’s needs; however, it leaves the user’s body vulnerable. This is the type of Verin favored by mages and priests, and the one I personally use myself.
 
 **Zimarin** (_Cold Verin_) is always cold as ice to the touch, no matter the weather. Zimarin is better suited to weapons used in close combat and cannot perform hematurgy at distances farther than mid-range. This Verin also struggles with casting a wide variety of skills and is instead better suited for performing a few with greater finesse. Zimarin bonds with its user in a way that strengthens the body. It is most often used for melee weapons and armor, with warriors being its main users.
+
+
+##### more on synthetic Renas
+
+There is only one tool in existence that has managed to marry these two types of Verin together, and that is the synthetic Rena. In fact, the synthetic Rena uses three types of Verin, as dead Verin is used as a neutral skeleton for its body.
+
+Of course, the two living types of Verin in the Rena are not compatible at all. Rather than being  melded into one another, they are carefully balanced in order to try to keep each other’s negatives in check. Because Warm Verin has more functions similar to the Rena than its cold variant, it usually takes up a larger ratio of the synthetic Rena. It also helps that Cold Verin keeps the Warm Verin better in check than the inverse—for some unexplained reason. 
 
 
 #### Needles
