@@ -9,4 +9,6 @@
 		- [ ] talk option
 		- [ ] flee option
 		- [ ] switch
+	- [ ] Limb Selction
+		- [ ] 
 	- [ ] POLISH
