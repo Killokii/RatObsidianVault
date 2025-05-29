@@ -1,3 +1,12 @@
-- [ ] Combat Scene impelentation
+- [ ] Combat Scene implementation
 	- [ ] Create abilities
-		- [ ] Make a g
+		- [ ] Make a exel sheet writing down all the abilities
+		- [ ] set the abilities onto the characters
+	- [ ] create a proper party
+	- [ ] add Ability descriptions when ability is selected
+	- [ ] Add Combat Announcer
+	- [ ] ADD ACT implemenations
+		- [ ] talk option
+		- [ ] flee option
+		- [ ] switch
+	- [ ] POLISH
