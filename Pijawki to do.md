@@ -4,7 +4,8 @@
 		- [ ] set the abilities onto the characters
 	- [ ] create a proper party
 	- [ ] add Ability descriptions when ability is selected
-	- [ ] Add Combat Announcer
+	- [ ]  Combat Announcer
+		- [ ] make it so it drops down if there are multiple
 	- [ ] ADD ACT implemenations
 		- [ ] talk option
 		- [ ] flee option
