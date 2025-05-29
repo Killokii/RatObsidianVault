@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Record - Hematurgy.md",
+                "file": "8. Journal/Th-May-29-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Record - Hematurgy"
+              "title": "Th-May-29-2025"
             }
           },
           {
@@ -35,8 +35,19 @@
               "icon": "lucide-file",
               "title": "Hematurgy"
             }
+          },
+          {
+            "id": "1c9aa2d4675a0eb1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "591de137a719dcb4",
@@ -63,7 +74,54 @@
   "left": {
     "id": "928942ecb170b5ec",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "091d838db17768de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4754f07a2c41e4ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b0e1e859b84aaf42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "41d94ea2d1249bee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
@@ -71,7 +129,104 @@
   "right": {
     "id": "dce093f187f95ec6",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "fe2630919e560e7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e882da5512bcca6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d6069217644ab696",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "66d3d2451aa7cf16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a71ad4abfb893ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4e5dfc1d92ee7fcf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d1953ef00a998805",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "18e678baaea26b43",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -91,14 +246,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6ef90dcf2ec1c980",
+  "active": "1c9aa2d4675a0eb1",
   "lastOpenFiles": [
+    "8. Journal/Th-May-29-2025.md",
+    "8. Journal/Mo-May-26-2025.md",
+    "8. Journal/Sa-May-24-2025.md",
+    "Record - Hematurgy.md",
     "Untitled/Pijawki Book of Lore.md",
     "Untitled/PIJAWKI.md",
     "Hematurgy.md",
     "4. Rattus Writing Workshop/Rattus Creative Workshop.md",
     "Untitled/Record - Messenger.md",
-    "Record - Hematurgy.md",
     "Record - Prawia.md",
     "Record - Pijawki.md",
     "Record - The Lowly.md",
@@ -116,9 +274,6 @@
     "8. Journal/Tu-May-13-2025.md",
     "Untitled 15.md",
     "8. Journal/Fr-May-9-2025.md",
-    "Untitled 14.md",
-    "Character - Dymitr.md",
-    "Record - Morzana.md",
     "New folder",
     "Rathamanthus.canvas",
     "Untitled.canvas",
