@@ -48,8 +48,23 @@
                       "icon": "lucide-file",
                       "title": "Tu-Jun-10-2025"
                     }
+                  },
+                  {
+                    "id": "e5b41f1b1d86ca23",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Leauge of geeks.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Leauge of geeks"
+                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               }
             ],
             "direction": "vertical"
@@ -254,13 +269,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "11049ba8d6b4b625",
+  "active": "e5b41f1b1d86ca23",
   "lastOpenFiles": [
+    "Job email dumb.md",
+    "Ea.md",
+    "Leauge of geeks.md",
+    "8. Journal/Tu-Jun-10-2025.md",
     "4. Rattus Writing Workshop/Rattus Creative Workshop.md",
     "8. Journal/Mo-Jun-9-2025.md",
     "Untitled/PIJAWKI.md",
     "1. Homepage/Rattus’s Compendium of Every little thing.md",
-    "8. Journal/Tu-Jun-10-2025.md",
     "Hematurgy.md",
     "8. Journal/Mo-Jun-2-2025.md",
     "Pijawki to do.md",
@@ -279,9 +297,6 @@
     "8. Journal/Th-May-15-2025.md",
     "8. Journal/Tu-May-20-2025.md",
     "CODE DICTIONARY.md",
-    "Agata.md",
-    "Pijawki Characters.md",
-    "8. Journal/Mo-May-19-2025.md",
     "New folder",
     "Rathamanthus.canvas",
     "Untitled.canvas",
