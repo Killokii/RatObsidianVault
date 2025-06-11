@@ -9,3 +9,4 @@
 
 
 - [ ] make a game object that stores all the sriptable objects.
+- [ ] make camera perspecrivve with low fov

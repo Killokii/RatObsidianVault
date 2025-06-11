@@ -10,6 +10,7 @@
           {
             "id": "ed6790684090568b",
             "type": "split",
+            "dimension": 80.62015503875969,
             "children": [
               {
                 "id": "0b8a0884629cc5cf",
@@ -62,9 +63,23 @@
                       "icon": "lucide-file",
                       "title": "We-Jun-11-2025"
                     }
+                  },
+                  {
+                    "id": "5f49001c375e9edb",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Pijawki notes.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Pijawki notes"
+                    }
                   }
                 ],
-                "currentTab": 1
+                "currentTab": 2
               }
             ],
             "direction": "vertical"
@@ -72,6 +87,7 @@
           {
             "id": "f7a5473d040edb13",
             "type": "tabs",
+            "dimension": 19.379844961240313,
             "children": [
               {
                 "id": "772b689eae9a5588",
@@ -269,10 +285,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e5b41f1b1d86ca23",
+  "active": "5f49001c375e9edb",
   "lastOpenFiles": [
-    "Job stuff.md",
     "8. Journal/We-Jun-11-2025.md",
+    "Job stuff.md",
     "8. Journal/Mo-Jun-9-2025.md",
     "Leauge of geeks.md",
     "Pasted image 20250610190155.png",
