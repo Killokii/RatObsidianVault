@@ -10,3 +10,15 @@
 
 - [ ] make a game object that stores all the sriptable objects.
 - [ ] make camera perspecrivve with low fov
+
+
+
+
+
+TO DO 
+- [ ] Adjust the planks
+- [ ] Cut up the guy i made and scatter him on the scene
+- [ ] Texure the crare + barrel + sack
+- [ ] Place trees
+- [ ] Look into the snow shader
+- [ ] add decals
