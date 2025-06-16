@@ -70,16 +70,26 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "8. Journal/Mo-Jun-16-2025.md",
+                        "file": "8. Journal/Tu-Jun-17-2025.md",
                         "mode": "source",
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "Mo-Jun-16-2025"
+                      "title": "Tu-Jun-17-2025"
+                    }
+                  },
+                  {
+                    "id": "dfbee4786da62e6b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {},
+                      "icon": "lucide-file",
+                      "title": "New tab"
                     }
                   }
                 ],
-                "currentTab": 2
+                "currentTab": 3
               }
             ],
             "direction": "vertical"
@@ -285,11 +295,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5f49001c375e9edb",
+  "active": "dfbee4786da62e6b",
   "lastOpenFiles": [
+    "8. Journal/Tu-Jun-17-2025.md",
+    "8. Journal/Mo-Jun-16-2025.md",
     "8. Journal/Su-Jun-15-2025.md",
     "Pijawki notes.md",
-    "8. Journal/Mo-Jun-16-2025.md",
     "8. Journal/Th-Jun-12-2025.md",
     "8. Journal/Mo-Jun-9-2025.md",
     "8. Journal/We-Jun-11-2025.md",
@@ -313,7 +324,6 @@
     "Record - Prawia.md",
     "Record - Pijawki.md",
     "Record - The Lowly.md",
-    "Record - The Noble.md",
     "New folder",
     "Rathamanthus.canvas",
     "Untitled.canvas",
